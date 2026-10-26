@@ -1,0 +1,19 @@
+{
+  "clubId": "defensa-y-justicia",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "dyj-bologna", "name": "Enrique Bologna", "age": 42, "nationality": "Argentina", "positions": ["GK"], "clubId": "defensa-y-justicia", "marketValue": 100000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "dyj-tripel", "name": "Cristopher Fiermarin", "age": 28, "nationality": "Uruguay", "positions": ["GK"], "clubId": "defensa-y-justicia", "marketValue": 800000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "dyj-fernaldes", "name": "Nicolás Fernández", "age": 30, "nationality": "Argentina", "positions": ["ST", "AM"], "clubId": "defensa-y-justicia", "marketValue": 2500000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "dyj-togni", "name": "Gastón Togni", "age": 28, "nationality": "Argentina", "positions": ["LW", "LB"], "clubId": "defensa-y-justicia", "marketValue": 2800000, "status": "active", "overall": 73, "potential": 74},
+    {"id": "dyj-tripel2", "name": "Julián López", "age": 26, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "defensa-y-justicia", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 73},
+    {"id": "dyj-soto", "name": "Alexis Soto", "age": 32, "nationality": "Argentina", "positions": ["LB"], "clubId": "defensa-y-justicia", "marketValue": 1000000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "dyj-ramos", "name": "Santiago Ramos Mingo", "age": 24, "nationality": "Argentina", "positions": ["CB"], "clubId": "defensa-y-justicia", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 76},
+    {"id": "dyj-gutierrez", "name": "Kevin Gutiérrez", "age": 28, "nationality": "Argentina", "positions": ["DM"], "clubId": "defensa-y-justicia", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "dyj-bogado", "name": "Matías Bogado", "age": 23, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "defensa-y-justicia", "marketValue": 1500000, "status": "active", "overall": 68, "potential": 74},
+    {"id": "dyj-cano", "name": "Esteban Gutiérrez", "age": 22, "nationality": "Argentina", "positions": ["ST"], "clubId": "defensa-y-justicia", "marketValue": 1200000, "status": "active", "overall": 67, "potential": 74},
+    {"id": "dyj-schott", "name": "Ezequiel Cannavo", "age": 24, "nationality": "Argentina", "positions": ["RB"], "clubId": "defensa-y-justicia", "marketValue": 1500000, "status": "active", "overall": 69, "potential": 73}
+  ]
+}

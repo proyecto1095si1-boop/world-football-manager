@@ -1,0 +1,20 @@
+{
+  "clubId": "argentinos-juniors",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "argj-rodriguez", "name": "Diego Rodríguez", "age": 35, "nationality": "Argentina", "positions": ["GK"], "clubId": "argentinos-juniors", "marketValue": 500000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "argj-godoy", "name": "Leonardo Godoy", "age": 29, "nationality": "Argentina", "positions": ["RB"], "clubId": "argentinos-juniors", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "argj-santamaría", "name": "Luciano Sánchez", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "argentinos-juniors", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 72},
+    {"id": "argj-correa", "name": "Francisco Álvarez", "age": 25, "nationality": "Argentina", "positions": ["CB"], "clubId": "argentinos-juniors", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 75},
+    {"id": "argj-prieto", "name": "Sebastián Prieto", "age": 28, "nationality": "Argentina", "positions": ["LB"], "clubId": "argentinos-juniors", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "argj-lescano", "name": "Alan Lescano", "age": 24, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "argentinos-juniors", "marketValue": 8000000, "status": "active", "overall": 75, "potential": 82},
+    {"id": "argj-veron", "name": "Gastón Verón", "age": 25, "nationality": "Argentina", "positions": ["ST", "AM"], "clubId": "argentinos-juniors", "marketValue": 3500000, "status": "active", "overall": 73, "potential": 76},
+    {"id": "argj-otero", "name": "José María Herrera", "age": 22, "nationality": "Argentina", "positions": ["ST"], "clubId": "argentinos-juniors", "marketValue": 2000000, "status": "active", "overall": 69, "potential": 76},
+    {"id": "argj-gomez", "name": "Alan Gómez", "age": 23, "nationality": "Argentina", "positions": ["LW", "RW"], "clubId": "argentinos-juniors", "marketValue": 1800000, "status": "active", "overall": 69, "potential": 74},
+    {"id": "argj-rodriguez-f", "name": "Federico Redondo", "age": 23, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "argentinos-juniors", "marketValue": 5000000, "status": "active", "overall": 74, "potential": 80},
+    {"id": "argj-nunez", "name": "Alan Núñez", "age": 22, "nationality": "Paraguay", "positions": ["RB", "CB"], "clubId": "argentinos-juniors", "marketValue": 2200000, "status": "loan", "loanFrom": "cerro-porteno", "overall": 70, "potential": 77},
+    {"id": "argj-gutierrez", "name": "Kevin Gutiérrez", "age": 28, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "argentinos-juniors", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 72}
+  ]
+}

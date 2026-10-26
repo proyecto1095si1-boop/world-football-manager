@@ -1,0 +1,20 @@
+{
+  "clubId": "newells",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "nob-hoyos", "name": "Lucas Hoyos", "age": 34, "nationality": "Argentina", "positions": ["GK"], "clubId": "newells", "marketValue": 600000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "nob-velazquez", "name": "Saúl Velázquez", "age": 25, "nationality": "Argentina", "positions": ["CB"], "clubId": "newells", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 74},
+    {"id": "nob-glavinovich", "name": "Leonel Glavinovich", "age": 25, "nationality": "Argentina", "positions": ["CB"], "clubId": "newells", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 74},
+    {"id": "nob-martino", "name": "Ángelo Martino", "age": 27, "nationality": "Argentina", "positions": ["LB"], "clubId": "newells", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 73},
+    {"id": "nob-mendez", "name": "Armando Méndez", "age": 29, "nationality": "Uruguay", "positions": ["RB"], "clubId": "newells", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "nob-banega", "name": "Éver Banega", "age": 38, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "newells", "marketValue": 500000, "status": "active", "overall": 75, "potential": 75},
+    {"id": "nob-cardona", "name": "Juan Fernando Quintero", "age": 33, "nationality": "Colombia", "positions": ["AM"], "clubId": "newells", "marketValue": 3000000, "status": "active", "overall": 76, "potential": 76},
+    {"id": "nob-gonzalez", "name": "Francisco González", "age": 25, "nationality": "Argentina", "positions": ["LW", "RW"], "clubId": "newells", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 75},
+    {"id": "nob-duarte", "name": "Ignacio Duarte", "age": 24, "nationality": "Argentina", "positions": ["ST"], "clubId": "newells", "marketValue": 1800000, "status": "active", "overall": 70, "potential": 74},
+    {"id": "nob-ramirez", "name": "Eric Ramírez", "age": 29, "nationality": "Argentina", "positions": ["ST"], "clubId": "newells", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "nob-fernandez", "name": "Julián Fernández", "age": 22, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "newells", "marketValue": 2200000, "status": "active", "overall": 70, "potential": 77},
+    {"id": "nob-sordo", "name": "Brian Sordo", "age": 21, "nationality": "Argentina", "positions": ["AM", "CM"], "clubId": "newells", "marketValue": 1500000, "status": "active", "overall": 67, "potential": 76}
+  ]
+}

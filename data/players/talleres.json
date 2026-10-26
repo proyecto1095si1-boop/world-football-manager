@@ -1,0 +1,21 @@
+{
+  "clubId": "talleres",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "tal-herrera", "name": "Guido Herrera", "age": 34, "nationality": "Argentina", "positions": ["GK"], "clubId": "talleres", "marketValue": 1000000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "tal-catalan", "name": "Matías Catalán", "age": 32, "nationality": "Argentina", "positions": ["CB", "RB"], "clubId": "talleres", "marketValue": 1200000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "tal-suarez", "name": "Gastón Benavídez", "age": 29, "nationality": "Argentina", "positions": ["RB"], "clubId": "talleres", "marketValue": 1800000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "tal-rivero", "name": "Blas Riveros", "age": 28, "nationality": "Paraguay", "positions": ["LB"], "clubId": "talleres", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "tal-villagra", "name": "Rodrigo Villagra", "age": 25, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "talleres", "marketValue": 5500000, "status": "active", "overall": 75, "potential": 79},
+    {"id": "tal-portillo", "name": "Juan Portilla", "age": 27, "nationality": "Colombia", "positions": ["CM"], "clubId": "talleres", "marketValue": 2800000, "status": "active", "overall": 73, "potential": 74},
+    {"id": "tal-bustos", "name": "Nahuel Bustos", "age": 28, "nationality": "Argentina", "positions": ["ST", "AM"], "clubId": "talleres", "marketValue": 3000000, "status": "active", "overall": 73, "potential": 74},
+    {"id": "tal-girotti", "name": "Federico Girotti", "age": 27, "nationality": "Argentina", "positions": ["ST"], "clubId": "talleres", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 73},
+    {"id": "tal-valoyes", "name": "Diego Valoyes", "age": 29, "nationality": "Colombia", "positions": ["RW", "LW"], "clubId": "talleres", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "tal-ortegoza", "name": "Ulises Ortegoza", "age": 28, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "talleres", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "tal-galarza", "name": "Matías Galarza", "age": 24, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "talleres", "marketValue": 3500000, "status": "active", "overall": 72, "potential": 77},
+    {"id": "tal-mantilla", "name": "Rubén Mantilla", "age": 22, "nationality": "Argentina", "positions": ["CB"], "clubId": "talleres", "marketValue": 1500000, "status": "active", "overall": 68, "potential": 76},
+    {"id": "tal-sequeira", "name": "Luis Sequeira", "age": 23, "nationality": "Argentina", "positions": ["AM", "RW"], "clubId": "talleres", "marketValue": 2800000, "status": "active", "overall": 71, "potential": 77}
+  ]
+}

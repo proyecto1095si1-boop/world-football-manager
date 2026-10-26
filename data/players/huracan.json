@@ -1,0 +1,20 @@
+{
+  "clubId": "huracan",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "hur-galindez", "name": "Hernán Galíndez", "age": 39, "nationality": "Ecuador", "positions": ["GK"], "clubId": "huracan", "marketValue": 300000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "hur-toba", "name": "Fernando Toba", "age": 26, "nationality": "Argentina", "positions": ["CB"], "clubId": "huracan", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 73},
+    {"id": "hur-pereyra", "name": "Fabio Pereyra", "age": 30, "nationality": "Argentina", "positions": ["CB"], "clubId": "huracan", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "hur-ibarra", "name": "Guillermo Ibarra", "age": 28, "nationality": "Argentina", "positions": ["RB"], "clubId": "huracan", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "hur-alfaro", "name": "Agustín Alfaro", "age": 25, "nationality": "Argentina", "positions": ["LB"], "clubId": "huracan", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 73},
+    {"id": "hur-fattori", "name": "Federico Fattori", "age": 32, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "huracan", "marketValue": 1200000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "hur-perez", "name": "Williams Alarcón", "age": 25, "nationality": "Chile", "positions": ["CM", "DM"], "clubId": "huracan", "marketValue": 3500000, "status": "active", "overall": 73, "potential": 76},
+    {"id": "hur-pussetto", "name": "Ignacio Pussetto", "age": 30, "nationality": "Argentina", "positions": ["RW", "ST"], "clubId": "huracan", "marketValue": 2500000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "hur-caicedo", "name": "Jordy Caicedo", "age": 28, "nationality": "Ecuador", "positions": ["ST"], "clubId": "huracan", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "hur-mazzol", "name": "Héctor Fertoli", "age": 31, "nationality": "Argentina", "positions": ["LW", "RW"], "clubId": "huracan", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "hur-ejame", "name": "Walter Mazzantti", "age": 28, "nationality": "Argentina", "positions": ["AM", "RW"], "clubId": "huracan", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 72},
+    {"id": "hur-gomez", "name": "Rodrigo Echeverría", "age": 30, "nationality": "Chile", "positions": ["CM", "DM"], "clubId": "huracan", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 71}
+  ]
+}

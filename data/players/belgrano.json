@@ -1,0 +1,20 @@
+{
+  "clubId": "belgrano",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "bel-losada", "name": "Juan Espínola", "age": 31, "nationality": "Paraguay", "positions": ["GK"], "clubId": "belgrano", "marketValue": 1000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "bel-compagnucci", "name": "Gabriel Compagnucci", "age": 33, "nationality": "Argentina", "positions": ["RB", "RM"], "clubId": "belgrano", "marketValue": 800000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "bel-moreno", "name": "Alexis Moreno", "age": 26, "nationality": "Argentina", "positions": ["CB"], "clubId": "belgrano", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 73},
+    {"id": "bel-troilo", "name": "Nicolás Troilo", "age": 25, "nationality": "Argentina", "positions": ["CB"], "clubId": "belgrano", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 73},
+    {"id": "bel-jara", "name": "Franco Jara", "age": 37, "nationality": "Argentina", "positions": ["ST"], "clubId": "belgrano", "marketValue": 400000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "bel-passerini", "name": "Lucas Passerini", "age": 31, "nationality": "Argentina", "positions": ["ST"], "clubId": "belgrano", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "bel-longo", "name": "Santiago Longo", "age": 28, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "belgrano", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "bel-quignon", "name": "Facundo Quignón", "age": 32, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "belgrano", "marketValue": 1200000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "bel-suarez", "name": "Matías Suárez", "age": 38, "nationality": "Argentina", "positions": ["ST", "AM"], "clubId": "belgrano", "marketValue": 300000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "bel-velazquez", "name": "Ulises Velázquez", "age": 23, "nationality": "Argentina", "positions": ["AM", "LW"], "clubId": "belgrano", "marketValue": 1800000, "status": "active", "overall": 69, "potential": 75},
+    {"id": "bel-reyes", "name": "Bryan Reyna", "age": 27, "nationality": "Peru", "positions": ["LW", "RW"], "clubId": "belgrano", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 72},
+    {"id": "bel-chavarria", "name": "Pablo Chavarría", "age": 38, "nationality": "Argentina", "positions": ["ST"], "clubId": "belgrano", "marketValue": 200000, "status": "active", "overall": 69, "potential": 69}
+  ]
+}

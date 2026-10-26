@@ -1,0 +1,20 @@
+{
+  "clubId": "tigre",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "tig-orona", "name": "Felipe Orlando", "age": 28, "nationality": "Argentina", "positions": ["GK"], "clubId": "tigre", "marketValue": 800000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "tig-laso", "name": "Ignacio Gariglio", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "tigre", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "tig-perez", "name": "Brian Leizza", "age": 25, "nationality": "Argentina", "positions": ["CB"], "clubId": "tigre", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 72},
+    {"id": "tig-ortega", "name": "Martín Ortega", "age": 26, "nationality": "Argentina", "positions": ["RB"], "clubId": "tigre", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 70},
+    {"id": "tig-cardenas", "name": "Sebastián Medina", "age": 24, "nationality": "Argentina", "positions": ["LB"], "clubId": "tigre", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 72},
+    {"id": "tig-gonzalez", "name": "Agustín Cardozo", "age": 28, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "tigre", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "tig-retegui", "name": "Tobías Rubio", "age": 22, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "tigre", "marketValue": 2000000, "status": "active", "overall": 69, "potential": 76},
+    {"id": "tig-forclaz", "name": "Blas Armoa", "age": 26, "nationality": "Paraguay", "positions": ["LW", "ST"], "clubId": "tigre", "marketValue": 2200000, "status": "active", "overall": 71, "potential": 72},
+    {"id": "tig-colidio", "name": "Mateo Retegui", "age": 27, "nationality": "Italy", "positions": ["ST"], "clubId": "tigre", "marketValue": 3000000, "status": "active", "overall": 73, "potential": 75},
+    {"id": "tig-sosa", "name": "Florián Monzón", "age": 25, "nationality": "Argentina", "positions": ["ST"], "clubId": "tigre", "marketValue": 1500000, "status": "active", "overall": 69, "potential": 72},
+    {"id": "tig-cabrera", "name": "Tomás Galván", "age": 26, "nationality": "Argentina", "positions": ["CM"], "clubId": "tigre", "marketValue": 1800000, "status": "active", "overall": 70, "potential": 72},
+    {"id": "tig-preti", "name": "Braian Martínez", "age": 26, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "tigre", "marketValue": 1600000, "status": "active", "overall": 70, "potential": 71}
+  ]
+}

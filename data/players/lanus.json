@@ -1,0 +1,22 @@
+{
+  "clubId": "lanus",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "lan-losada", "name": "Nahuel Losada", "age": 31, "nationality": "Argentina", "positions": ["GK"], "clubId": "lanus", "marketValue": 1200000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "lan-pereyra", "name": "Luciano Pereyra", "age": 23, "nationality": "Argentina", "positions": ["GK"], "clubId": "lanus", "marketValue": 600000, "status": "active", "overall": 68, "potential": 74},
+    {"id": "lan-cano", "name": "José Canale", "age": 28, "nationality": "Paraguay", "positions": ["CB"], "clubId": "lanus", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "lan-munoz", "name": "Ezequiel Muñoz", "age": 35, "nationality": "Argentina", "positions": ["CB"], "clubId": "lanus", "marketValue": 400000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "lan-aguirre", "name": "Braian Aguirre", "age": 25, "nationality": "Argentina", "positions": ["LB", "RB"], "clubId": "lanus", "marketValue": 2800000, "status": "active", "overall": 73, "potential": 76},
+    {"id": "lan-morales", "name": "Leonardo Morales", "age": 28, "nationality": "Argentina", "positions": ["RB"], "clubId": "lanus", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "lan-bou", "name": "Walter Bou", "age": 32, "nationality": "Argentina", "positions": ["ST", "AM"], "clubId": "lanus", "marketValue": 2500000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "lan-sand", "name": "José Sand", "age": 45, "nationality": "Argentina", "positions": ["ST"], "clubId": "lanus", "marketValue": 50000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "lan-salvio", "name": "Eduardo Salvio", "age": 36, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "lanus", "marketValue": 800000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "lan-pepe", "name": "Felipe Peña Biafore", "age": 24, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "lanus", "marketValue": 3500000, "status": "active", "overall": 73, "potential": 77},
+    {"id": "lan-lozano", "name": "Raúl Loaiza", "age": 31, "nationality": "Colombia", "positions": ["DM", "CM"], "clubId": "lanus", "marketValue": 1800000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "lan-acosta", "name": "Lautaro Acosta", "age": 38, "nationality": "Argentina", "positions": ["LW", "AM"], "clubId": "lanus", "marketValue": 200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "lan-segura", "name": "Nicolás Segura", "age": 22, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "lanus", "marketValue": 1500000, "status": "active", "overall": 68, "potential": 76},
+    {"id": "lan-de-la-vega", "name": "Pedro De la Vega", "age": 25, "nationality": "Argentina", "positions": ["RW", "LW"], "clubId": "lanus", "marketValue": 4000000, "status": "active", "overall": 74, "potential": 78}
+  ]
+}

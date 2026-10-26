@@ -4,25 +4,404 @@
   "lastUpdated": "2026-10-26",
   "squadType": "first-team",
   "players": [
-    {"id": "river-beltran", "name": "Santiago Beltrán", "age": 22, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 11000000, "status": "active", "overall": 77, "potential": 85},
-    {"id": "river-centurion", "name": "Ezequiel Centurión", "age": 29, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 1200000, "status": "active", "overall": 72, "potential": 72},
-    {"id": "river-otamendi", "name": "Nicolás Otamendi", "age": 38, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 1200000, "status": "active", "overall": 78, "potential": 78},
-    {"id": "river-rivero", "name": "Lautaro Rivero", "age": 22, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 6500000, "status": "active", "overall": 75, "potential": 83},
-    {"id": "river-martinez-quarta", "name": "Lucas Martínez Quarta", "age": 30, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 3800000, "status": "active", "overall": 76, "potential": 76},
-    {"id": "river-ramirez", "name": "Tobías Ramírez", "age": 19, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 4500000, "status": "active", "overall": 70, "potential": 84},
-    {"id": "river-montiel", "name": "Gonzalo Montiel", "age": 29, "nationality": "Argentina", "positions": ["RB"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 4500000, "status": "active", "overall": 77, "potential": 77},
-    {"id": "river-acuna", "name": "Marcos Acuña", "age": 34, "nationality": "Argentina", "positions": ["LB", "LM"], "preferredFoot": "Left", "clubId": "river-plate", "marketValue": 1500000, "status": "active", "overall": 76, "potential": 76},
-    {"id": "river-ortega", "name": "Francisco Ortega", "age": 27, "nationality": "Argentina", "positions": ["LB"], "preferredFoot": "Left", "clubId": "river-plate", "marketValue": 5500000, "status": "active", "overall": 75, "potential": 76},
-    {"id": "river-almada", "name": "Thiago Almada", "age": 25, "nationality": "Argentina", "positions": ["AM", "LW", "CM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 20000000, "status": "active", "overall": 83, "potential": 87},
-    {"id": "river-moreno", "name": "Aníbal Moreno", "age": 27, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 8500000, "status": "active", "overall": 78, "potential": 80},
-    {"id": "river-andrada", "name": "Tobías Andrada", "age": 19, "nationality": "Argentina", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 10000000, "status": "active", "overall": 73, "potential": 86},
-    {"id": "river-arambarri", "name": "Mauro Arambarri", "age": 31, "nationality": "Uruguay", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 6000000, "status": "active", "overall": 77, "potential": 77},
-    {"id": "river-vera", "name": "Fausto Vera", "age": 26, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 4500000, "status": "loan", "loanFrom": "atletico-mineiro", "overall": 75, "potential": 78},
-    {"id": "river-galvan", "name": "Tomás Galván", "age": 26, "nationality": "Argentina", "positions": ["CM", "AM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 3500000, "status": "active", "overall": 74, "potential": 76},
-    {"id": "river-driussi", "name": "Sebastián Driussi", "age": 30, "nationality": "Argentina", "positions": ["ST", "AM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 7000000, "status": "active", "overall": 78, "potential": 78},
-    {"id": "river-beltran-st", "name": "Lucas Beltrán", "age": 25, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 9000000, "status": "active", "overall": 77, "potential": 81},
-    {"id": "river-borre", "name": "Rafael Santos Borré", "age": 31, "nationality": "Colombia", "positions": ["ST"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 4000000, "status": "active", "overall": 75, "potential": 75},
-    {"id": "river-correa", "name": "Ángel Correa", "age": 31, "nationality": "Argentina", "positions": ["RW", "ST", "AM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 5500000, "status": "active", "overall": 77, "potential": 77},
-    {"id": "river-ruberto", "name": "Agustín Ruberto", "age": 20, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 2500000, "status": "active", "overall": 68, "potential": 82}
+    {
+      "id": "river-beltran",
+      "name": "Santiago Beltrán",
+      "age": 22,
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 11000000,
+      "status": "active",
+      "overall": 77,
+      "potential": 85,
+      "attributes": {
+        "handling": 78, "reflexes": 82, "aerialReach": 76, "commandOfArea": 74,
+        "kicking": 72, "oneOnOnes": 79, "rushingOut": 75, "throwing": 73,
+        "pace": 55, "acceleration": 58, "stamina": 65, "strength": 72, "jumping": 78, "agility": 74,
+        "composure": 75, "decisions": 74, "positioning": 76, "determination": 80, "workRate": 68
+      }
+    },
+    {
+      "id": "river-centurion",
+      "name": "Ezequiel Centurión",
+      "age": 29,
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 1200000,
+      "status": "active",
+      "overall": 72,
+      "potential": 72,
+      "attributes": {
+        "handling": 73, "reflexes": 74, "aerialReach": 71, "commandOfArea": 70,
+        "kicking": 66, "oneOnOnes": 72, "rushingOut": 68, "throwing": 70,
+        "pace": 48, "acceleration": 50, "stamina": 60, "strength": 68, "jumping": 72, "agility": 65,
+        "composure": 70, "decisions": 69, "positioning": 72, "determination": 72, "workRate": 62
+      }
+    },
+    {
+      "id": "river-otamendi",
+      "name": "Nicolás Otamendi",
+      "age": 38,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 1200000,
+      "status": "active",
+      "overall": 78,
+      "potential": 78,
+      "attributes": {
+        "finishing": 48, "longShots": 42, "passing": 72, "crossing": 45, "dribbling": 58,
+        "firstTouch": 68, "heading": 84, "tackling": 82, "technique": 66,
+        "composure": 80, "decisions": 82, "vision": 68, "positioning": 84, "workRate": 78,
+        "determination": 90, "offTheBall": 55,
+        "pace": 58, "acceleration": 55, "stamina": 72, "strength": 82, "jumping": 85, "agility": 58
+      }
+    },
+    {
+      "id": "river-almada",
+      "name": "Thiago Almada",
+      "age": 25,
+      "nationality": "Argentina",
+      "positions": ["AM", "LW", "CM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 20000000,
+      "status": "active",
+      "overall": 83,
+      "potential": 87,
+      "attributes": {
+        "finishing": 78, "longShots": 80, "passing": 85, "crossing": 76, "dribbling": 88,
+        "firstTouch": 86, "heading": 48, "tackling": 42, "technique": 88,
+        "composure": 82, "decisions": 84, "vision": 86, "positioning": 80, "workRate": 75,
+        "determination": 80, "offTheBall": 84,
+        "pace": 82, "acceleration": 85, "stamina": 78, "strength": 58, "jumping": 52, "agility": 90
+      }
+    },
+    {
+      "id": "river-moreno",
+      "name": "Aníbal Moreno",
+      "age": 27,
+      "nationality": "Argentina",
+      "positions": ["DM", "CM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 8500000,
+      "status": "active",
+      "overall": 78,
+      "potential": 80,
+      "attributes": {
+        "finishing": 58, "longShots": 62, "passing": 78, "crossing": 55, "dribbling": 70,
+        "firstTouch": 74, "heading": 65, "tackling": 80, "technique": 72,
+        "composure": 76, "decisions": 78, "vision": 74, "positioning": 80, "workRate": 85,
+        "determination": 84, "offTheBall": 68,
+        "pace": 72, "acceleration": 70, "stamina": 84, "strength": 74, "jumping": 68, "agility": 72
+      }
+    },
+    {
+      "id": "river-andrada",
+      "name": "Tobías Andrada",
+      "age": 19,
+      "nationality": "Argentina",
+      "positions": ["CM", "DM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 10000000,
+      "status": "active",
+      "overall": 73,
+      "potential": 86,
+      "attributes": {
+        "finishing": 55, "longShots": 60, "passing": 76, "crossing": 52, "dribbling": 72,
+        "firstTouch": 75, "heading": 58, "tackling": 72, "technique": 74,
+        "composure": 70, "decisions": 72, "vision": 74, "positioning": 72, "workRate": 80,
+        "determination": 82, "offTheBall": 68,
+        "pace": 74, "acceleration": 76, "stamina": 78, "strength": 65, "jumping": 60, "agility": 76
+      }
+    },
+    {
+      "id": "river-driussi",
+      "name": "Sebastián Driussi",
+      "age": 30,
+      "nationality": "Argentina",
+      "positions": ["ST", "AM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 7000000,
+      "status": "active",
+      "overall": 78,
+      "potential": 78,
+      "attributes": {
+        "finishing": 80, "longShots": 74, "passing": 72, "crossing": 58, "dribbling": 76,
+        "firstTouch": 78, "heading": 70, "tackling": 40, "technique": 78,
+        "composure": 80, "decisions": 76, "vision": 72, "positioning": 80, "workRate": 76,
+        "determination": 80, "offTheBall": 82,
+        "pace": 74, "acceleration": 72, "stamina": 78, "strength": 72, "jumping": 70, "agility": 74
+      }
+    },
+    {
+      "id": "river-beltran-st",
+      "name": "Lucas Beltrán",
+      "age": 25,
+      "nationality": "Argentina",
+      "positions": ["ST"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 9000000,
+      "status": "active",
+      "overall": 77,
+      "potential": 81,
+      "attributes": {
+        "finishing": 80, "longShots": 68, "passing": 66, "crossing": 48, "dribbling": 72,
+        "firstTouch": 75, "heading": 76, "tackling": 35, "technique": 74,
+        "composure": 76, "decisions": 72, "vision": 64, "positioning": 80, "workRate": 78,
+        "determination": 80, "offTheBall": 80,
+        "pace": 76, "acceleration": 74, "stamina": 78, "strength": 76, "jumping": 76, "agility": 70
+      }
+    },
+    {
+      "id": "river-montiel",
+      "name": "Gonzalo Montiel",
+      "age": 29,
+      "nationality": "Argentina",
+      "positions": ["RB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 4500000,
+      "status": "active",
+      "overall": 77,
+      "potential": 77,
+      "attributes": {
+        "finishing": 48, "longShots": 50, "passing": 72, "crossing": 76, "dribbling": 70,
+        "firstTouch": 70, "heading": 65, "tackling": 76, "technique": 68,
+        "composure": 74, "decisions": 74, "vision": 66, "positioning": 76, "workRate": 82,
+        "determination": 84, "offTheBall": 65,
+        "pace": 78, "acceleration": 76, "stamina": 82, "strength": 72, "jumping": 68, "agility": 74
+      }
+    },
+    {
+      "id": "river-rivero",
+      "name": "Lautaro Rivero",
+      "age": 22,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 6500000,
+      "status": "active",
+      "overall": 75,
+      "potential": 83,
+      "attributes": {
+        "finishing": 40, "longShots": 38, "passing": 70, "crossing": 42, "dribbling": 58,
+        "firstTouch": 66, "heading": 76, "tackling": 78, "technique": 64,
+        "composure": 72, "decisions": 74, "vision": 62, "positioning": 76, "workRate": 78,
+        "determination": 80, "offTheBall": 55,
+        "pace": 74, "acceleration": 72, "stamina": 76, "strength": 76, "jumping": 78, "agility": 68
+      }
+    },
+    {
+      "id": "river-acuna",
+      "name": "Marcos Acuña",
+      "age": 34,
+      "nationality": "Argentina",
+      "positions": ["LB", "LM"],
+      "preferredFoot": "Left",
+      "clubId": "river-plate",
+      "marketValue": 1500000,
+      "status": "active",
+      "overall": 76,
+      "potential": 76,
+      "attributes": {
+        "finishing": 58, "longShots": 68, "passing": 78, "crossing": 82, "dribbling": 74,
+        "firstTouch": 76, "heading": 62, "tackling": 74, "technique": 76,
+        "composure": 76, "decisions": 76, "vision": 74, "positioning": 74, "workRate": 82,
+        "determination": 84, "offTheBall": 70,
+        "pace": 70, "acceleration": 68, "stamina": 80, "strength": 72, "jumping": 65, "agility": 72
+      }
+    },
+    {
+      "id": "river-arambarri",
+      "name": "Mauro Arambarri",
+      "age": 31,
+      "nationality": "Uruguay",
+      "positions": ["CM", "DM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 6000000,
+      "status": "active",
+      "overall": 77,
+      "potential": 77,
+      "attributes": {
+        "finishing": 62, "longShots": 70, "passing": 76, "crossing": 58, "dribbling": 70,
+        "firstTouch": 72, "heading": 64, "tackling": 78, "technique": 72,
+        "composure": 76, "decisions": 76, "vision": 72, "positioning": 78, "workRate": 86,
+        "determination": 85, "offTheBall": 68,
+        "pace": 68, "acceleration": 66, "stamina": 84, "strength": 74, "jumping": 66, "agility": 70
+      }
+    },
+    {
+      "id": "river-correa",
+      "name": "Ángel Correa",
+      "age": 31,
+      "nationality": "Argentina",
+      "positions": ["RW", "ST", "AM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 5500000,
+      "status": "active",
+      "overall": 77,
+      "potential": 77,
+      "attributes": {
+        "finishing": 78, "longShots": 72, "passing": 74, "crossing": 70, "dribbling": 80,
+        "firstTouch": 78, "heading": 58, "tackling": 42, "technique": 80,
+        "composure": 76, "decisions": 74, "vision": 74, "positioning": 78, "workRate": 80,
+        "determination": 82, "offTheBall": 82,
+        "pace": 80, "acceleration": 82, "stamina": 78, "strength": 62, "jumping": 58, "agility": 84
+      }
+    },
+    {
+      "id": "river-ortega",
+      "name": "Francisco Ortega",
+      "age": 27,
+      "nationality": "Argentina",
+      "positions": ["LB"],
+      "preferredFoot": "Left",
+      "clubId": "river-plate",
+      "marketValue": 5500000,
+      "status": "active",
+      "overall": 75,
+      "potential": 76,
+      "attributes": {
+        "finishing": 45, "longShots": 48, "passing": 72, "crossing": 76, "dribbling": 70,
+        "firstTouch": 70, "heading": 60, "tackling": 74, "technique": 68,
+        "composure": 72, "decisions": 72, "vision": 66, "positioning": 74, "workRate": 80,
+        "determination": 78, "offTheBall": 64,
+        "pace": 78, "acceleration": 77, "stamina": 82, "strength": 68, "jumping": 62, "agility": 76
+      }
+    },
+    {
+      "id": "river-martinez-quarta",
+      "name": "Lucas Martínez Quarta",
+      "age": 30,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 3800000,
+      "status": "active",
+      "overall": 76,
+      "potential": 76,
+      "attributes": {
+        "finishing": 45, "longShots": 48, "passing": 70, "crossing": 42, "dribbling": 60,
+        "firstTouch": 66, "heading": 78, "tackling": 78, "technique": 65,
+        "composure": 74, "decisions": 75, "vision": 64, "positioning": 78, "workRate": 76,
+        "determination": 80, "offTheBall": 55,
+        "pace": 68, "acceleration": 66, "stamina": 74, "strength": 78, "jumping": 80, "agility": 64
+      }
+    },
+    {
+      "id": "river-vera",
+      "name": "Fausto Vera",
+      "age": 26,
+      "nationality": "Argentina",
+      "positions": ["DM", "CM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 4500000,
+      "status": "loan",
+      "loanFrom": "atletico-mineiro",
+      "overall": 75,
+      "potential": 78,
+      "attributes": {
+        "finishing": 55, "longShots": 58, "passing": 74, "crossing": 52, "dribbling": 68,
+        "firstTouch": 72, "heading": 62, "tackling": 76, "technique": 70,
+        "composure": 72, "decisions": 74, "vision": 70, "positioning": 76, "workRate": 82,
+        "determination": 80, "offTheBall": 65,
+        "pace": 70, "acceleration": 68, "stamina": 80, "strength": 72, "jumping": 66, "agility": 70
+      }
+    },
+    {
+      "id": "river-borre",
+      "name": "Rafael Santos Borré",
+      "age": 31,
+      "nationality": "Colombia",
+      "positions": ["ST"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 4000000,
+      "status": "active",
+      "overall": 75,
+      "potential": 75,
+      "attributes": {
+        "finishing": 76, "longShots": 65, "passing": 64, "crossing": 48, "dribbling": 70,
+        "firstTouch": 72, "heading": 74, "tackling": 38, "technique": 70,
+        "composure": 74, "decisions": 70, "vision": 62, "positioning": 76, "workRate": 80,
+        "determination": 82, "offTheBall": 78,
+        "pace": 74, "acceleration": 72, "stamina": 80, "strength": 74, "jumping": 74, "agility": 70
+      }
+    },
+    {
+      "id": "river-ramirez",
+      "name": "Tobías Ramírez",
+      "age": 19,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 4500000,
+      "status": "active",
+      "overall": 70,
+      "potential": 84,
+      "attributes": {
+        "finishing": 35, "longShots": 32, "passing": 64, "crossing": 38, "dribbling": 52,
+        "firstTouch": 62, "heading": 72, "tackling": 74, "technique": 60,
+        "composure": 66, "decisions": 68, "vision": 58, "positioning": 72, "workRate": 76,
+        "determination": 80, "offTheBall": 50,
+        "pace": 72, "acceleration": 70, "stamina": 74, "strength": 74, "jumping": 76, "agility": 66
+      }
+    },
+    {
+      "id": "river-ruberto",
+      "name": "Agustín Ruberto",
+      "age": 20,
+      "nationality": "Argentina",
+      "positions": ["ST"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 2500000,
+      "status": "active",
+      "overall": 68,
+      "potential": 82,
+      "attributes": {
+        "finishing": 70, "longShots": 58, "passing": 55, "crossing": 40, "dribbling": 65,
+        "firstTouch": 68, "heading": 68, "tackling": 30, "technique": 66,
+        "composure": 65, "decisions": 62, "vision": 55, "positioning": 70, "workRate": 72,
+        "determination": 78, "offTheBall": 72,
+        "pace": 74, "acceleration": 76, "stamina": 70, "strength": 68, "jumping": 70, "agility": 70
+      }
+    },
+    {
+      "id": "river-galvan",
+      "name": "Tomás Galván",
+      "age": 26,
+      "nationality": "Argentina",
+      "positions": ["CM", "AM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 3500000,
+      "status": "active",
+      "overall": 74,
+      "potential": 76,
+      "attributes": {
+        "finishing": 65, "longShots": 68, "passing": 76, "crossing": 62, "dribbling": 72,
+        "firstTouch": 74, "heading": 55, "tackling": 58, "technique": 74,
+        "composure": 72, "decisions": 74, "vision": 76, "positioning": 70, "workRate": 74,
+        "determination": 75, "offTheBall": 72,
+        "pace": 72, "acceleration": 74, "stamina": 76, "strength": 62, "jumping": 58, "agility": 76
+      }
+    }
   ]
 }

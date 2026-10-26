@@ -1,0 +1,42 @@
+{
+  "description": "Estructura de categorías juveniles del fútbol argentino",
+  "categories": [
+    {
+      "id": "reserva",
+      "name": "Reserva / Primera B",
+      "ageLimit": 23,
+      "description": "Equipo de Reserva. Jugadores generalmente entre 18-23 años. Compite en torneos de reserva."
+    },
+    {
+      "id": "cuarta",
+      "name": "Cuarta División / U20",
+      "ageLimit": 20,
+      "description": "Categoría Sub-20. Principal cantera de proyección hacia el primer equipo."
+    },
+    {
+      "id": "quinta",
+      "name": "Quinta División / U18",
+      "ageLimit": 18,
+      "description": "Categoría Sub-18. Base de la cantera."
+    },
+    {
+      "id": "sexta",
+      "name": "Sexta División / U17",
+      "ageLimit": 17,
+      "description": "Categoría Sub-17."
+    },
+    {
+      "id": "septima",
+      "name": "Séptima División / U16",
+      "ageLimit": 16,
+      "description": "Categoría Sub-16."
+    },
+    {
+      "id": "octava",
+      "name": "Octava División / U15",
+      "ageLimit": 15,
+      "description": "Categoría Sub-15. Inicio de la formación profesional."
+    }
+  ],
+  "focus": "Para el manager se priorizan Reserva (1ra categoría juvenil) y Cuarta/U20 (2da categoría juvenil) como las dos principales canteras."
+}

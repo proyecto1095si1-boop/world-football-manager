@@ -1,0 +1,94 @@
+{
+  "leagueId": "liga-profesional",
+  "season": "2026",
+  "clubs": [
+    {
+      "id": "boca-juniors",
+      "name": "Boca Juniors",
+      "shortName": "Boca",
+      "city": "Buenos Aires",
+      "stadium": "La Bombonera",
+      "capacity": 54000,
+      "reputation": 85,
+      "budget": 25000000,
+      "colors": ["#0033A0", "#FFD700"]
+    },
+    {
+      "id": "river-plate",
+      "name": "River Plate",
+      "shortName": "River",
+      "city": "Buenos Aires",
+      "stadium": "Más Monumental",
+      "capacity": 85018,
+      "reputation": 88,
+      "budget": 35000000,
+      "colors": ["#FFFFFF", "#E31C23"]
+    },
+    {
+      "id": "racing-club",
+      "name": "Racing Club",
+      "shortName": "Racing",
+      "city": "Avellaneda",
+      "stadium": "Presidente Perón",
+      "capacity": 51389,
+      "reputation": 78,
+      "budget": 18000000,
+      "colors": ["#00A3E0", "#FFFFFF"]
+    },
+    {
+      "id": "independiente",
+      "name": "Independiente",
+      "shortName": "Independiente",
+      "city": "Avellaneda",
+      "stadium": "Libertadores de América",
+      "capacity": 49500,
+      "reputation": 80,
+      "budget": 15000000,
+      "colors": ["#E31C23", "#FFFFFF"]
+    },
+    {
+      "id": "san-lorenzo",
+      "name": "San Lorenzo",
+      "shortName": "San Lorenzo",
+      "city": "Buenos Aires",
+      "stadium": "Pedro Bidegain",
+      "capacity": 47964,
+      "reputation": 76,
+      "budget": 12000000,
+      "colors": ["#0000FF", "#FF0000"]
+    },
+    {
+      "id": "velez",
+      "name": "Vélez Sarsfield",
+      "shortName": "Vélez",
+      "city": "Buenos Aires",
+      "stadium": "José Amalfitani",
+      "capacity": 49540,
+      "reputation": 77,
+      "budget": 14000000,
+      "colors": ["#FFFFFF", "#0000FF"]
+    },
+    {
+      "id": "estudiantes-lp",
+      "name": "Estudiantes de La Plata",
+      "shortName": "Estudiantes",
+      "city": "La Plata",
+      "stadium": "Jorge Luis Hirschi",
+      "capacity": 30000,
+      "reputation": 75,
+      "budget": 11000000,
+      "colors": ["#E31C23", "#FFFFFF"]
+    },
+    {
+      "id": "rosario-central",
+      "name": "Rosario Central",
+      "shortName": "Central",
+      "city": "Rosario",
+      "stadium": "Gigante de Arroyito",
+      "capacity": 41654,
+      "reputation": 74,
+      "budget": 10000000,
+      "colors": ["#0033A0", "#FFD700"]
+    }
+  ]
+}

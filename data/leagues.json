@@ -1,0 +1,67 @@
+{
+  "leagues": [
+    {
+      "id": "premier-league",
+      "name": "Premier League",
+      "country": "England",
+      "level": 1,
+      "clubs": 20,
+      "continent": "Europe",
+      "coefficient": 1.0
+    },
+    {
+      "id": "laliga",
+      "name": "LaLiga",
+      "country": "Spain",
+      "level": 1,
+      "clubs": 20,
+      "continent": "Europe",
+      "coefficient": 0.95
+    },
+    {
+      "id": "serie-a",
+      "name": "Serie A",
+      "country": "Italy",
+      "level": 1,
+      "clubs": 20,
+      "continent": "Europe",
+      "coefficient": 0.90
+    },
+    {
+      "id": "bundesliga",
+      "name": "Bundesliga",
+      "country": "Germany",
+      "level": 1,
+      "clubs": 18,
+      "continent": "Europe",
+      "coefficient": 0.88
+    },
+    {
+      "id": "ligue-1",
+      "name": "Ligue 1",
+      "country": "France",
+      "level": 1,
+      "clubs": 18,
+      "continent": "Europe",
+      "coefficient": 0.82
+    },
+    {
+      "id": "liga-profesional",
+      "name": "Liga Profesional",
+      "country": "Argentina",
+      "level": 1,
+      "clubs": 30,
+      "continent": "South America",
+      "coefficient": 0.65
+    },
+    {
+      "id": "brasileirao",
+      "name": "Brasileirão Série A",
+      "country": "Brazil",
+      "level": 1,
+      "clubs": 20,
+      "continent": "South America",
+      "coefficient": 0.70
+    }
+  ]
+}

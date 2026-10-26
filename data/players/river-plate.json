@@ -1,0 +1,111 @@
+{
+  "clubId": "river-plate",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "players": [
+    {
+      "id": "river-almada",
+      "name": "Thiago Almada",
+      "age": 25,
+      "nationality": "Argentina",
+      "positions": ["AM", "LW", "CM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 20000000,
+      "status": "active",
+      "overall": 82,
+      "potential": 86
+    },
+    {
+      "id": "river-beltran-gk",
+      "name": "Santiago Beltrán",
+      "age": 22,
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 11000000,
+      "status": "active",
+      "overall": 76,
+      "potential": 84
+    },
+    {
+      "id": "river-otamendi",
+      "name": "Nicolás Otamendi",
+      "age": 38,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 1200000,
+      "status": "active",
+      "overall": 78,
+      "potential": 78
+    },
+    {
+      "id": "river-montiel",
+      "name": "Gonzalo Montiel",
+      "age": 29,
+      "nationality": "Argentina",
+      "positions": ["RB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 4500000,
+      "status": "active",
+      "overall": 77,
+      "potential": 77
+    },
+    {
+      "id": "river-driussi",
+      "name": "Sebastián Driussi",
+      "age": 30,
+      "nationality": "Argentina",
+      "positions": ["ST", "AM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 7000000,
+      "status": "active",
+      "overall": 78,
+      "potential": 78
+    },
+    {
+      "id": "river-andrada",
+      "name": "Tobías Andrada",
+      "age": 19,
+      "nationality": "Argentina",
+      "positions": ["CM", "DM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 10000000,
+      "status": "active",
+      "overall": 72,
+      "potential": 85
+    },
+    {
+      "id": "river-rivero",
+      "name": "Lautaro Rivero",
+      "age": 22,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 6000000,
+      "status": "active",
+      "overall": 74,
+      "potential": 82
+    },
+    {
+      "id": "river-moreno",
+      "name": "Aníbal Moreno",
+      "age": 27,
+      "nationality": "Argentina",
+      "positions": ["DM", "CM"],
+      "preferredFoot": "Right",
+      "clubId": "river-plate",
+      "marketValue": 8000000,
+      "status": "active",
+      "overall": 77,
+      "potential": 79
+    }
+  ]
+}

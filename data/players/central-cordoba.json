@@ -1,0 +1,18 @@
+{
+  "clubId": "central-cordoba",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "cco-santos", "name": "Michael Santos", "age": 32, "nationality": "Uruguay", "positions": ["ST"], "clubId": "central-cordoba", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "cco-heredia", "name": "Luis Heredia", "age": 28, "nationality": "Argentina", "positions": ["GK"], "clubId": "central-cordoba", "marketValue": 500000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "cco-gomez", "name": "Lucas Abascia", "age": 28, "nationality": "Argentina", "positions": ["CB"], "clubId": "central-cordoba", "marketValue": 900000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "cco-martinez", "name": "Fernando Martínez", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "central-cordoba", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 70},
+    {"id": "cco-cabrera", "name": "Iván Cabrera", "age": 25, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "central-cordoba", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 72},
+    {"id": "cco-veron", "name": "Lucas Passerini", "age": 31, "nationality": "Argentina", "positions": ["ST"], "clubId": "central-cordoba", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "cco-godoy", "name": "Matías Godoy", "age": 24, "nationality": "Argentina", "positions": ["AM", "RW"], "clubId": "central-cordoba", "marketValue": 1500000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "cco-besozzi", "name": "Manuel Besozzi", "age": 23, "nationality": "Argentina", "positions": ["LW", "AM"], "clubId": "central-cordoba", "marketValue": 1300000, "status": "active", "overall": 68, "potential": 73},
+    {"id": "cco-kuzemka", "name": "José Florentín", "age": 28, "nationality": "Paraguay", "positions": ["CM"], "clubId": "central-cordoba", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "cco-barcia", "name": "Sebastián Cristóforo", "age": 32, "nationality": "Uruguay", "positions": ["CM", "DM"], "clubId": "central-cordoba", "marketValue": 600000, "status": "active", "overall": 68, "potential": 68}
+  ]
+}

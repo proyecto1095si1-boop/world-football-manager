@@ -1,0 +1,18 @@
+{
+  "clubId": "deportivo-riestra",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "rie-montoya", "name": "Ignacio Arce", "age": 31, "nationality": "Argentina", "positions": ["GK"], "clubId": "deportivo-riestra", "marketValue": 400000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "rie-caro", "name": "Jonathan Caro", "age": 30, "nationality": "Argentina", "positions": ["CB"], "clubId": "deportivo-riestra", "marketValue": 600000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "rie-sansotre", "name": "Nicolás Sansotre", "age": 29, "nationality": "Argentina", "positions": ["CB"], "clubId": "deportivo-riestra", "marketValue": 500000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "rie-gomez", "name": "Jonatan Goitia", "age": 28, "nationality": "Argentina", "positions": ["RB"], "clubId": "deportivo-riestra", "marketValue": 500000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "rie-celiz", "name": "Milton Celiz", "age": 30, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "deportivo-riestra", "marketValue": 700000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "rie-benitez", "name": "Walter Benítez", "age": 28, "nationality": "Argentina", "positions": ["CM"], "clubId": "deportivo-riestra", "marketValue": 600000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "rie-houseman", "name": "Jonathan Herrera", "age": 31, "nationality": "Argentina", "positions": ["ST"], "clubId": "deportivo-riestra", "marketValue": 800000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "rie-guerrero", "name": "Gustavo Fernández", "age": 29, "nationality": "Argentina", "positions": ["ST"], "clubId": "deportivo-riestra", "marketValue": 700000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "rie-lopez", "name": "Braian Sánchez", "age": 28, "nationality": "Argentina", "positions": ["AM", "RW"], "clubId": "deportivo-riestra", "marketValue": 600000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "rie-tello", "name": "Pablo Tello", "age": 26, "nationality": "Argentina", "positions": ["LW", "AM"], "clubId": "deportivo-riestra", "marketValue": 700000, "status": "active", "overall": 67, "potential": 69}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "clubId": "instituto",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "ins-roffo", "name": "Manuel Roffo", "age": 25, "nationality": "Argentina", "positions": ["GK"], "clubId": "instituto", "marketValue": 1200000, "status": "active", "overall": 71, "potential": 74},
+    {"id": "ins-alarcón", "name": "Fernando Alarcón", "age": 29, "nationality": "Argentina", "positions": ["CB"], "clubId": "instituto", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "ins-franco", "name": "Gonzalo Requena", "age": 24, "nationality": "Argentina", "positions": ["CB"], "clubId": "instituto", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "ins-bay", "name": "Jonathan Bay", "age": 31, "nationality": "Argentina", "positions": ["LB"], "clubId": "instituto", "marketValue": 800000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "ins-moreyra", "name": "Stefano Moreyra", "age": 25, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "instituto", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 74},
+    {"id": "ins-acevedo", "name": "Jonás Acevedo", "age": 28, "nationality": "Argentina", "positions": ["LW", "AM"], "clubId": "instituto", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 72},
+    {"id": "ins-suarez", "name": "Facundo Suárez", "age": 28, "nationality": "Argentina", "positions": ["ST"], "clubId": "instituto", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "ins-rodriguez", "name": "Santiago Rodríguez", "age": 26, "nationality": "Uruguay", "positions": ["ST", "AM"], "clubId": "instituto", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 73},
+    {"id": "ins-perez", "name": "Gastón Lodico", "age": 27, "nationality": "Argentina", "positions": ["AM", "CM"], "clubId": "instituto", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 72},
+    {"id": "ins-puebla", "name": "Damián Puebla", "age": 24, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "instituto", "marketValue": 1600000, "status": "active", "overall": 70, "potential": 74},
+    {"id": "ins-zubiri", "name": "Nicolás Zalazar", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "instituto", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70}
+  ]
+}

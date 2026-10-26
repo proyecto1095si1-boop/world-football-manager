@@ -1,0 +1,18 @@
+{
+  "clubId": "gimnasia-mendoza",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "gem-modica", "name": "Agustín Módica", "age": 23, "nationality": "Argentina", "positions": ["ST"], "clubId": "gimnasia-mendoza", "marketValue": 3500000, "status": "active", "overall": 72, "potential": 79},
+    {"id": "gem-hernandez", "name": "Juan Manuel Hernández", "age": 28, "nationality": "Argentina", "positions": ["GK"], "clubId": "gimnasia-mendoza", "marketValue": 500000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "gem-nieto", "name": "Fernando Nieto", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "gimnasia-mendoza", "marketValue": 900000, "status": "active", "overall": 68, "potential": 69},
+    {"id": "gem-sosa", "name": "Lucas Sosa", "age": 29, "nationality": "Argentina", "positions": ["CB"], "clubId": "gimnasia-mendoza", "marketValue": 800000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "gem-paz", "name": "Matías Pardo", "age": 27, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "gimnasia-mendoza", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 70},
+    {"id": "gem-ortiz", "name": "Nicolás Ortiz", "age": 26, "nationality": "Argentina", "positions": ["AM", "CM"], "clubId": "gimnasia-mendoza", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 71},
+    {"id": "gem-gomez", "name": "Tomas Badaloni", "age": 25, "nationality": "Argentina", "positions": ["ST"], "clubId": "gimnasia-mendoza", "marketValue": 1400000, "status": "active", "overall": 69, "potential": 72},
+    {"id": "gem-lopez", "name": "Franco Ledesma", "age": 28, "nationality": "Argentina", "positions": ["LB"], "clubId": "gimnasia-mendoza", "marketValue": 700000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "gem-ramirez", "name": "Ignacio Antonio", "age": 24, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "gimnasia-mendoza", "marketValue": 1100000, "status": "active", "overall": 68, "potential": 72},
+    {"id": "gem-fernandez", "name": "Facundo Castelli", "age": 27, "nationality": "Argentina", "positions": ["ST", "RW"], "clubId": "gimnasia-mendoza", "marketValue": 1000000, "status": "active", "overall": 68, "potential": 69}
+  ]
+}

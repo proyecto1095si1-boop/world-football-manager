@@ -1,0 +1,18 @@
+{
+  "clubId": "atletico-tucuman",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "atu-lampe", "name": "Carlos Lampe", "age": 37, "nationality": "Bolivia", "positions": ["GK"], "clubId": "atletico-tucuman", "marketValue": 300000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "atu-paz", "name": "Nicolás Romero", "age": 25, "nationality": "Argentina", "positions": ["CB"], "clubId": "atletico-tucuman", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 73},
+    {"id": "atu-de-lucca", "name": "Mateo Bajamich", "age": 25, "nationality": "Argentina", "positions": ["ST", "RW"], "clubId": "atletico-tucuman", "marketValue": 1800000, "status": "active", "overall": 70, "potential": 72},
+    {"id": "atu-estigarribia", "name": "Marcelo Estigarribia", "age": 30, "nationality": "Paraguay", "positions": ["ST"], "clubId": "atletico-tucuman", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "atu-acosta", "name": "Guillermo Acosta", "age": 35, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "atletico-tucuman", "marketValue": 400000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "atu-tesuri", "name": "Renzo Tesuri", "age": 28, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "atletico-tucuman", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "atu-infante", "name": "Juan Infante", "age": 28, "nationality": "Argentina", "positions": ["LB"], "clubId": "atletico-tucuman", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "atu-ortiz", "name": "Kevin Ortiz", "age": 24, "nationality": "Argentina", "positions": ["CM"], "clubId": "atletico-tucuman", "marketValue": 1400000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "atu-brandan", "name": "Francisco Di Franco", "age": 27, "nationality": "Argentina", "positions": ["AM", "CM"], "clubId": "atletico-tucuman", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 70},
+    {"id": "atu-coronel", "name": "Mateo Coronel", "age": 26, "nationality": "Argentina", "positions": ["ST", "AM"], "clubId": "atletico-tucuman", "marketValue": 1600000, "status": "active", "overall": 70, "potential": 72}
+  ]
+}

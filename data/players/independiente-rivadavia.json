@@ -1,0 +1,18 @@
+{
+  "clubId": "independiente-rivadavia",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "iriv-arce", "name": "Álex Arce", "age": 31, "nationality": "Paraguay", "positions": ["ST"], "clubId": "independiente-rivadavia", "marketValue": 2500000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "iriv-rey", "name": "Gonzalo Ríos", "age": 28, "nationality": "Argentina", "positions": ["GK"], "clubId": "independiente-rivadavia", "marketValue": 600000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "iriv-petracca", "name": "Iván Villalba", "age": 28, "nationality": "Paraguay", "positions": ["CB"], "clubId": "independiente-rivadavia", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "iriv-ost", "name": "Luciano Abecasis", "age": 34, "nationality": "Argentina", "positions": ["RB"], "clubId": "independiente-rivadavia", "marketValue": 400000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "iriv-ramis", "name": "Matías Reali", "age": 27, "nationality": "Argentina", "positions": ["AM", "RW"], "clubId": "independiente-rivadavia", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "iriv-ortiz", "name": "Diego Tonetto", "age": 31, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "independiente-rivadavia", "marketValue": 800000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "iriv-sequeira", "name": "Sebastián Villa", "age": 28, "nationality": "Colombia", "positions": ["LW", "RW"], "clubId": "independiente-rivadavia", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "iriv-fernandez", "name": "Fabricio Roncaglia", "age": 37, "nationality": "Argentina", "positions": ["CB"], "clubId": "independiente-rivadavia", "marketValue": 200000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "iriv-gomez", "name": "Franco Romero", "age": 25, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "independiente-rivadavia", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 72},
+    {"id": "iriv-sosa", "name": "Lautaro Ríos", "age": 24, "nationality": "Argentina", "positions": ["AM", "CM"], "clubId": "independiente-rivadavia", "marketValue": 1400000, "status": "active", "overall": 68, "potential": 73}
+  ]
+}

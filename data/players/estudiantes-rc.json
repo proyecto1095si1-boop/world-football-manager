@@ -1,0 +1,18 @@
+{
+  "clubId": "estudiantes-rc",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "erc-gomez", "name": "Juan Ignacio Gómez", "age": 28, "nationality": "Argentina", "positions": ["GK"], "clubId": "estudiantes-rc", "marketValue": 400000, "status": "active", "overall": 66, "potential": 66},
+    {"id": "erc-lopez", "name": "Facundo López", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "estudiantes-rc", "marketValue": 600000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "erc-martinez", "name": "Nicolás Martínez", "age": 26, "nationality": "Argentina", "positions": ["CB"], "clubId": "estudiantes-rc", "marketValue": 500000, "status": "active", "overall": 66, "potential": 67},
+    {"id": "erc-sosa", "name": "Matías Sosa", "age": 25, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "estudiantes-rc", "marketValue": 700000, "status": "active", "overall": 67, "potential": 69},
+    {"id": "erc-fernandez", "name": "Lucas Fernández", "age": 24, "nationality": "Argentina", "positions": ["AM", "CM"], "clubId": "estudiantes-rc", "marketValue": 800000, "status": "active", "overall": 67, "potential": 70},
+    {"id": "erc-rodriguez", "name": "Federico Rodríguez", "age": 28, "nationality": "Argentina", "positions": ["ST"], "clubId": "estudiantes-rc", "marketValue": 700000, "status": "active", "overall": 67, "potential": 67},
+    {"id": "erc-perez", "name": "Gonzalo Pérez", "age": 26, "nationality": "Argentina", "positions": ["LW", "RW"], "clubId": "estudiantes-rc", "marketValue": 600000, "status": "active", "overall": 66, "potential": 68},
+    {"id": "erc-gomez2", "name": "Diego Gómez", "age": 29, "nationality": "Argentina", "positions": ["RB"], "clubId": "estudiantes-rc", "marketValue": 500000, "status": "active", "overall": 66, "potential": 66},
+    {"id": "erc-silva", "name": "Martín Silva", "age": 23, "nationality": "Argentina", "positions": ["CM"], "clubId": "estudiantes-rc", "marketValue": 600000, "status": "active", "overall": 65, "potential": 70},
+    {"id": "erc-torres", "name": "Pablo Torres", "age": 27, "nationality": "Argentina", "positions": ["ST"], "clubId": "estudiantes-rc", "marketValue": 600000, "status": "active", "overall": 66, "potential": 67}
+  ]
+}

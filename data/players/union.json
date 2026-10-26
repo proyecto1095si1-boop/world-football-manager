@@ -1,0 +1,18 @@
+{
+  "clubId": "union",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "uni-tarragona", "name": "Cristian Tarragona", "age": 32, "nationality": "Argentina", "positions": ["ST"], "clubId": "union", "marketValue": 1500000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "uni-profita", "name": "Thiago Cardozo", "age": 27, "nationality": "Uruguay", "positions": ["GK"], "clubId": "union", "marketValue": 800000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "uni-paz", "name": "Claudio Corvalán", "age": 35, "nationality": "Argentina", "positions": ["CB"], "clubId": "union", "marketValue": 400000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "uni-vargas", "name": "Franco Pardo", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "union", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "uni-mata", "name": "Nicolás Paz", "age": 25, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "union", "marketValue": 1800000, "status": "active", "overall": 70, "potential": 73},
+    {"id": "uni-oroya", "name": "Mauro Pittón", "age": 30, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "union", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "uni-gamba", "name": "Lucas Gamba", "age": 35, "nationality": "Argentina", "positions": ["ST", "RW"], "clubId": "union", "marketValue": 500000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "uni-delblanco", "name": "Patricio Del Blanco", "age": 23, "nationality": "Argentina", "positions": ["LW", "AM"], "clubId": "union", "marketValue": 1500000, "status": "active", "overall": 69, "potential": 74},
+    {"id": "uni-campana", "name": "Adrián Balboa", "age": 30, "nationality": "Uruguay", "positions": ["ST"], "clubId": "union", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "uni-flotter", "name": "Joaquín Mosqueira", "age": 22, "nationality": "Argentina", "positions": ["CM"], "clubId": "union", "marketValue": 1400000, "status": "active", "overall": 68, "potential": 75}
+  ]
+}

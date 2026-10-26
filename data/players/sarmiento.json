@@ -1,0 +1,18 @@
+{
+  "clubId": "sarmiento",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "sar-marabel", "name": "Junior Marabel", "age": 28, "nationality": "Paraguay", "positions": ["ST"], "clubId": "sarmiento", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "sar-ayala", "name": "Lucas Acosta", "age": 29, "nationality": "Argentina", "positions": ["GK"], "clubId": "sarmiento", "marketValue": 600000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "sar-insaurralde", "name": "Juan Insaurralde", "age": 39, "nationality": "Argentina", "positions": ["CB"], "clubId": "sarmiento", "marketValue": 100000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "sar-garcia", "name": "Gabriel Díaz", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "sarmiento", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 70},
+    {"id": "sar-quiroga", "name": "Fernando Godoy", "age": 32, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "sarmiento", "marketValue": 800000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "sar-gho", "name": "Iván Gho", "age": 23, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "sarmiento", "marketValue": 1500000, "status": "active", "overall": 69, "potential": 74},
+    {"id": "sar-mendez", "name": "Lisandro López", "age": 41, "nationality": "Argentina", "positions": ["ST"], "clubId": "sarmiento", "marketValue": 100000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "sar-maina", "name": "Manuel García", "age": 26, "nationality": "Argentina", "positions": ["CM"], "clubId": "sarmiento", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 71},
+    {"id": "sar-arroyo", "name": "Joaquín Ardaiz", "age": 26, "nationality": "Uruguay", "positions": ["ST"], "clubId": "sarmiento", "marketValue": 1400000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "sar-vallejo", "name": "Yair Arismendi", "age": 27, "nationality": "Argentina", "positions": ["LB", "LW"], "clubId": "sarmiento", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 70}
+  ]
+}

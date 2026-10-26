@@ -1,0 +1,18 @@
+{
+  "clubId": "banfield",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "ban-sarmiento", "name": "Facundo Sanguinetti", "age": 24, "nationality": "Argentina", "positions": ["GK"], "clubId": "banfield", "marketValue": 800000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "ban-insua", "name": "Alejandro Maciel", "age": 28, "nationality": "Argentina", "positions": ["CB"], "clubId": "banfield", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "ban-rojo", "name": "Nicolás Hernández", "age": 27, "nationality": "Colombia", "positions": ["CB"], "clubId": "banfield", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "ban-enrique", "name": "Emanuel Insúa", "age": 32, "nationality": "Argentina", "positions": ["LB"], "clubId": "banfield", "marketValue": 800000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "ban-lopez", "name": "Juan Pablo Álvarez", "age": 28, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "banfield", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "ban-gonzalez", "name": "Gerónimo Rivera", "age": 21, "nationality": "Argentina", "positions": ["AM", "LW"], "clubId": "banfield", "marketValue": 2000000, "status": "active", "overall": 68, "potential": 77},
+    {"id": "ban-cano", "name": "Milton Giménez", "age": 28, "nationality": "Argentina", "positions": ["ST"], "clubId": "banfield", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "ban-duran", "name": "Bruno Sepúlveda", "age": 30, "nationality": "Argentina", "positions": ["ST"], "clubId": "banfield", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "ban-sosa", "name": "Ignacio Rodríguez", "age": 24, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "banfield", "marketValue": 1500000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "ban-calleri", "name": "Matías González", "age": 23, "nationality": "Argentina", "positions": ["CM"], "clubId": "banfield", "marketValue": 1200000, "status": "active", "overall": 68, "potential": 73}
+  ]
+}

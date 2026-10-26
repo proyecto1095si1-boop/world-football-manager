@@ -1,0 +1,18 @@
+{
+  "clubId": "platense",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "pla-cozzani", "name": "Juan Pablo Cozzani", "age": 26, "nationality": "Argentina", "positions": ["GK"], "clubId": "platense", "marketValue": 1000000, "status": "active", "overall": 70, "potential": 72},
+    {"id": "pla-valdez", "name": "Ignacio Vázquez", "age": 27, "nationality": "Argentina", "positions": ["CB"], "clubId": "platense", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 72},
+    {"id": "pla-salomon", "name": "Gastón Suso", "age": 30, "nationality": "Argentina", "positions": ["CB"], "clubId": "platense", "marketValue": 1000000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "pla-saborido", "name": "Juan Saborido", "age": 26, "nationality": "Argentina", "positions": ["RB"], "clubId": "platense", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "pla-picco", "name": "Fernando Juárez", "age": 27, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "platense", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 71},
+    {"id": "pla-mainero", "name": "Guido Mainero", "age": 30, "nationality": "Argentina", "positions": ["RW", "AM"], "clubId": "platense", "marketValue": 1500000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "pla-pellegrini", "name": "Mateo Pellegrino", "age": 24, "nationality": "Argentina", "positions": ["ST"], "clubId": "platense", "marketValue": 2500000, "status": "active", "overall": 71, "potential": 75},
+    {"id": "pla-oromo", "name": "Ronaldo Martínez", "age": 30, "nationality": "Paraguay", "positions": ["ST"], "clubId": "platense", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "pla-zapiola", "name": "Franco Zapiola", "age": 23, "nationality": "Argentina", "positions": ["AM", "LW"], "clubId": "platense", "marketValue": 1800000, "status": "active", "overall": 69, "potential": 75},
+    {"id": "pla-gomez", "name": "Vicente Taborda", "age": 23, "nationality": "Argentina", "positions": ["AM", "CM"], "clubId": "platense", "marketValue": 2000000, "status": "active", "overall": 70, "potential": 76}
+  ]
+}

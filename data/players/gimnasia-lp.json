@@ -1,0 +1,19 @@
+{
+  "clubId": "gimnasia-lp",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "gelp-insua", "name": "Nelson Insfrán", "age": 30, "nationality": "Argentina", "positions": ["GK"], "clubId": "gimnasia-lp", "marketValue": 700000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "gelp-morales", "name": "Leonardo Morales", "age": 33, "nationality": "Argentina", "positions": ["CB"], "clubId": "gimnasia-lp", "marketValue": 600000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "gelp-cabral", "name": "Yonathan Cabral", "age": 32, "nationality": "Argentina", "positions": ["CB"], "clubId": "gimnasia-lp", "marketValue": 800000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "gelp-pintado", "name": "Juan Pintado", "age": 28, "nationality": "Uruguay", "positions": ["RB"], "clubId": "gimnasia-lp", "marketValue": 1200000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "gelp-rodriguez", "name": "Matías Rodríguez", "age": 26, "nationality": "Argentina", "positions": ["LB"], "clubId": "gimnasia-lp", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 71},
+    {"id": "gelp-castro", "name": "Lucas Castro", "age": 36, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "gimnasia-lp", "marketValue": 400000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "gelp-miramon", "name": "Nicolás Miramón", "age": 25, "nationality": "Argentina", "positions": ["CM", "DM"], "clubId": "gimnasia-lp", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 74},
+    {"id": "gelp-dominguez", "name": "Benjamín Domínguez", "age": 22, "nationality": "Argentina", "positions": ["LW", "AM"], "clubId": "gimnasia-lp", "marketValue": 4000000, "status": "active", "overall": 72, "potential": 80},
+    {"id": "gelp-castillo", "name": "Rodrigo Castillo", "age": 25, "nationality": "Argentina", "positions": ["ST"], "clubId": "gimnasia-lp", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 74},
+    {"id": "gelp-colazo", "name": "Agustín Colazo", "age": 24, "nationality": "Argentina", "positions": ["RW", "ST"], "clubId": "gimnasia-lp", "marketValue": 1500000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "gelp-sosa", "name": "Pablo De Blasis", "age": 38, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "gimnasia-lp", "marketValue": 200000, "status": "active", "overall": 70, "potential": 70}
+  ]
+}

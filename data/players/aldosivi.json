@@ -1,0 +1,18 @@
+{
+  "clubId": "aldosivi",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "ald-carrizo", "name": "José Devecchi", "age": 29, "nationality": "Argentina", "positions": ["GK"], "clubId": "aldosivi", "marketValue": 600000, "status": "active", "overall": 68, "potential": 68},
+    {"id": "ald-sigali", "name": "Leonardo Sigali", "age": 37, "nationality": "Argentina", "positions": ["CB"], "clubId": "aldosivi", "marketValue": 200000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "ald-pombo", "name": "Joaquín Pombo", "age": 24, "nationality": "Argentina", "positions": ["CB"], "clubId": "aldosivi", "marketValue": 1200000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "ald-godoy", "name": "Matías Godoy", "age": 24, "nationality": "Argentina", "positions": ["AM", "RW"], "clubId": "aldosivi", "marketValue": 1400000, "status": "active", "overall": 69, "potential": 73},
+    {"id": "ald-castro", "name": "Lucas Castro", "age": 36, "nationality": "Argentina", "positions": ["CM", "AM"], "clubId": "aldosivi", "marketValue": 300000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "ald-dadin", "name": "Bautista Dadín", "age": 20, "nationality": "Argentina", "positions": ["ST"], "clubId": "aldosivi", "marketValue": 800000, "status": "active", "overall": 65, "potential": 75},
+    {"id": "ald-ramirez", "name": "Eric Ramírez", "age": 29, "nationality": "Argentina", "positions": ["ST"], "clubId": "aldosivi", "marketValue": 1500000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "ald-linares", "name": "Nicolás Linares", "age": 28, "nationality": "Argentina", "positions": ["DM", "CM"], "clubId": "aldosivi", "marketValue": 1000000, "status": "active", "overall": 69, "potential": 69},
+    {"id": "ald-lopez", "name": "Elías López", "age": 25, "nationality": "Argentina", "positions": ["RB"], "clubId": "aldosivi", "marketValue": 900000, "status": "active", "overall": 68, "potential": 70},
+    {"id": "ald-acosta", "name": "Lucas Acosta", "age": 29, "nationality": "Argentina", "positions": ["GK"], "clubId": "aldosivi", "marketValue": 500000, "status": "active", "overall": 67, "potential": 67}
+  ]
+}

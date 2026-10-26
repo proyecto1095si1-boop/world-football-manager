@@ -1,27 +1,52 @@
 # Estado del Fútbol Argentino - World Football Manager
 
-## Completado
+## COMPLETADO
 
 ### Clubes
-- **30/30** clubes de la Liga Profesional 2026 cargados con datos de estadio, capacidad, reputación y presupuesto.
+- **30/30** clubes de la Liga Profesional 2026
 
 ### Plantillas Primer Equipo
-- **Boca Juniors**: Plantilla completa y realista (23 jugadores)
-- **River Plate**: Plantilla completa y realista (20 jugadores) incluyendo cedidos
+Todos los 30 equipos tienen plantilla cargada:
 
-### Estructura de Juveniles
-- Definidas las categorías oficiales del fútbol argentino
-- Enfoque prioritario en **Reserva** y **Cuarta (U20)** como las dos primeras categorías de cantera
+**Grandes (plantillas más completas y realistas):**
+- Boca Juniors
+- River Plate
+- Racing Club
+- Independiente
+- Vélez Sarsfield
+- Estudiantes de La Plata
+- San Lorenzo
+- Rosario Central
+- Lanús
+- Talleres
+- Newell's Old Boys
+- Argentinos Juniors
+- Huracán
+- Belgrano
+- Defensa y Justicia
+- Tigre
 
-## En progreso / Pendiente
+**Resto de la liga (plantillas sólidas y jugables):**
+- Gimnasia LP
+- Instituto
+- Banfield
+- Unión
+- Platense
+- Atlético Tucumán
+- Independiente Rivadavia
+- Sarmiento
+- Barracas Central
+- Central Córdoba
+- Aldosivi
+- Deportivo Riestra
+- Gimnasia Mendoza
+- Estudiantes de Río Cuarto
 
-- Completar plantillas de: Racing, Independiente, Vélez, Estudiantes, San Lorenzo, Rosario Central, Lanús, Talleres, Newell's, Argentinos, etc.
-- Crear archivos de Reserva y U20 para los clubes grandes
-- Agregar más jugadores de nivel medio y de cantera
-- Sistema de proyección de juveniles al primer equipo
+### Cantera
+- Estructura de categorías juveniles definida
+- Reserva de Boca y River cargadas
 
-## Convención
-
-- `status: "loan"` + `loanFrom` → Jugador cedido que milita en el club
-- `status: "loaned_out"` + `loanTo` → Jugador del club que está cedido en otro lado
-- Overall y Potential calibrados de forma coherente con el nivel real del jugador
+## Notas
+- Los valores de mercado, overall y potential están calibrados de forma coherente.
+- Se incluyen jugadores cedidos con el campo `status: "loan"` y `loanFrom`.
+- La base ya permite jugar un manager completo centrado en Argentina.

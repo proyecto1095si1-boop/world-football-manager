@@ -1,0 +1,19 @@
+{
+  "clubId": "san-lorenzo",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "sl-altamirano", "name": "Facundo Altamirano", "age": 30, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 1200000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "sl-hernandez", "name": "Gastón Hernández", "age": 26, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 3500000, "status": "active", "overall": 74, "potential": 76},
+    {"id": "sl-romagnoli", "name": "Nicolás Romagnoli", "age": 24, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 76},
+    {"id": "sl-braida", "name": "Malcom Braida", "age": 29, "nationality": "Argentina", "positions": ["LB", "LW"], "preferredFoot": "Left", "clubId": "san-lorenzo", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "sl-remaundi", "name": "Agustín Martegani", "age": 25, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 3000000, "status": "active", "overall": 73, "potential": 76},
+    {"id": "sl-iurralde", "name": "Elías Iurralde", "age": 22, "nationality": "Argentina", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 2500000, "status": "active", "overall": 70, "potential": 78},
+    {"id": "sl-bareiro", "name": "Adam Bareiro", "age": 28, "nationality": "Paraguay", "positions": ["ST"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 2800000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "sl-tariq", "name": "Iván Leguizamón", "age": 23, "nationality": "Paraguay", "positions": ["AM", "RW"], "preferredFoot": "Left", "clubId": "san-lorenzo", "marketValue": 4000000, "status": "active", "overall": 73, "potential": 78},
+    {"id": "sl-barraza", "name": "Nahuel Barraza", "age": 25, "nationality": "Argentina", "positions": ["RW", "ST"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 1800000, "status": "active", "overall": 70, "potential": 73},
+    {"id": "sl-campi", "name": "Gastón Campi", "age": 34, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Left", "clubId": "san-lorenzo", "marketValue": 600000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "sl-blanco", "name": "Sebastián Blanco", "age": 38, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Right", "clubId": "san-lorenzo", "marketValue": 200000, "status": "active", "overall": 71, "potential": 71}
+  ]
+}

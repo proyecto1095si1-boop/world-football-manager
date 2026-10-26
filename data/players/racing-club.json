@@ -1,0 +1,23 @@
+{
+  "clubId": "racing-club",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "racing-arias", "name": "Gabriel Arias", "age": 38, "nationality": "Chile", "positions": ["GK"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 400000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "racing-sosa", "name": "Santiago Sosa", "age": 26, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 9000000, "status": "active", "overall": 78, "potential": 81},
+    {"id": "racing-juanfer", "name": "Juanfer Quintero", "age": 33, "nationality": "Colombia", "positions": ["AM", "RW"], "preferredFoot": "Left", "clubId": "racing-club", "marketValue": 3500000, "status": "active", "overall": 77, "potential": 77},
+    {"id": "racing-roger", "name": "Roger Martínez", "age": 32, "nationality": "Colombia", "positions": ["ST"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 2800000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "racing-rojas", "name": "Matías Rojas", "age": 30, "nationality": "Paraguay", "positions": ["AM", "CM"], "preferredFoot": "Left", "clubId": "racing-club", "marketValue": 2500000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "racing-sigali", "name": "Leonardo Sigali", "age": 37, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 300000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "racing-nardi", "name": "Nahuel Nardi", "age": 22, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 2500000, "status": "active", "overall": 70, "potential": 79},
+    {"id": "racing-mura", "name": "Facundo Mura", "age": 27, "nationality": "Argentina", "positions": ["RB"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 73},
+    {"id": "racing-quito", "name": "Gabriel Rojas", "age": 28, "nationality": "Argentina", "positions": ["LB"], "preferredFoot": "Left", "clubId": "racing-club", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "racing-almendra", "name": "Agustín Almendra", "age": 26, "nationality": "Argentina", "positions": ["CM"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 4000000, "status": "active", "overall": 74, "potential": 77},
+    {"id": "racing-carbonero", "name": "Johan Carbonero", "age": 26, "nationality": "Colombia", "positions": ["LW", "RW"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 3500000, "status": "active", "overall": 73, "potential": 75},
+    {"id": "racing-solari", "name": "Santiago Solari", "age": 24, "nationality": "Argentina", "positions": ["RW", "ST"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 3000000, "status": "active", "overall": 72, "potential": 76},
+    {"id": "racing-martirena", "name": "Gastón Martirena", "age": 25, "nationality": "Uruguay", "positions": ["RB", "RW"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 2800000, "status": "active", "overall": 72, "potential": 75},
+    {"id": "racing-vecino", "name": "Matías Vecino", "age": 32, "nationality": "Uruguay", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 2000000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "racing-haita", "name": "Baltasar Haita", "age": 20, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Right", "clubId": "racing-club", "marketValue": 1500000, "status": "active", "overall": 67, "potential": 80}
+  ]
+}

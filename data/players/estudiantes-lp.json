@@ -1,0 +1,21 @@
+{
+  "clubId": "estudiantes-lp",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "est-andujar", "name": "Mariano Andújar", "age": 42, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 100000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "est-musso", "name": "Juan Musso", "age": 32, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 3000000, "status": "active", "overall": 76, "potential": 76},
+    {"id": "est-ascacibar", "name": "Santiago Ascacíbar", "age": 29, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 5500000, "status": "active", "overall": 77, "potential": 77},
+    {"id": "est-medina", "name": "Cristian Medina", "age": 24, "nationality": "Argentina", "positions": ["CM", "AM"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 9000000, "status": "active", "overall": 76, "potential": 82},
+    {"id": "est-rollheiser", "name": "Benjamin Rollheiser", "age": 25, "nationality": "Argentina", "positions": ["RW", "AM"], "preferredFoot": "Left", "clubId": "estudiantes-lp", "marketValue": 7000000, "status": "active", "overall": 76, "potential": 80},
+    {"id": "est-mendez", "name": "José Sosa", "age": 29, "nationality": "Argentina", "positions": ["CM"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "est-correa", "name": "Javier Correa", "age": 32, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 1800000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "est-boselli", "name": "Sebastián Boselli", "age": 22, "nationality": "Uruguay", "positions": ["CB"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 4000000, "status": "active", "overall": 73, "potential": 80},
+    {"id": "est-benedetti", "name": "Eric Benedetti", "age": 23, "nationality": "Argentina", "positions": ["LB"], "preferredFoot": "Left", "clubId": "estudiantes-lp", "marketValue": 2200000, "status": "active", "overall": 71, "potential": 76},
+    {"id": "est-palacios", "name": "Tomás Palacios", "age": 23, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Left", "clubId": "estudiantes-lp", "marketValue": 8000000, "status": "active", "overall": 74, "potential": 82},
+    {"id": "est-sosa-e", "name": "Edwuin Cetré", "age": 28, "nationality": "Colombia", "positions": ["RW", "LW"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "est-piovi", "name": "Lucas Piovi", "age": 32, "nationality": "Argentina", "positions": ["DM"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 1000000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "est-mejias", "name": "Guido Carrillo", "age": 35, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "estudiantes-lp", "marketValue": 800000, "status": "active", "overall": 72, "potential": 72}
+  ]
+}

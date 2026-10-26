@@ -1,0 +1,15 @@
+{
+  "clubId": "boca-juniors",
+  "squadType": "reserva",
+  "category": "Reserva",
+  "lastUpdated": "2026-10-26",
+  "players": [
+    {"id": "boca-res-herrera", "name": "Facundo Herrera", "age": 20, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 600000, "status": "youth", "overall": 64, "potential": 78},
+    {"id": "boca-res-satas", "name": "Matías Satas", "age": 18, "nationality": "Argentina", "positions": ["CB", "RB"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 400000, "status": "youth", "overall": 60, "potential": 76},
+    {"id": "boca-res-rey", "name": "Camilo Rey Domenech", "age": 17, "nationality": "Argentina", "positions": ["CM", "AM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 800000, "status": "youth", "overall": 62, "potential": 82},
+    {"id": "boca-res-bianco", "name": "Lautaro Bianco", "age": 19, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 500000, "status": "youth", "overall": 63, "potential": 79},
+    {"id": "boca-res-bacidalupe", "name": "Rodrigo Bacidalupe", "age": 19, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 450000, "status": "youth", "overall": 61, "potential": 77},
+    {"id": "boca-res-ruiz", "name": "Joaquín Ruiz", "age": 20, "nationality": "Argentina", "positions": ["CM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 350000, "status": "youth", "overall": 62, "potential": 75},
+    {"id": "boca-res-blum", "name": "Baltazar Blum", "age": 20, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 300000, "status": "youth", "overall": 61, "potential": 74}
+  ]
+}

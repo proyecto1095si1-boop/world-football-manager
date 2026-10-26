@@ -1,0 +1,15 @@
+{
+  "clubId": "river-plate",
+  "squadType": "reserva",
+  "category": "Reserva",
+  "lastUpdated": "2026-10-26",
+  "players": [
+    {"id": "river-res-meza", "name": "Juan Cruz Meza", "age": 18, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 1800000, "status": "youth", "overall": 66, "potential": 84},
+    {"id": "river-res-pereyra", "name": "Lautaro Pereyra", "age": 18, "nationality": "Argentina", "positions": ["CM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 700000, "status": "youth", "overall": 63, "potential": 80},
+    {"id": "river-res-silva", "name": "Lucas Silva", "age": 19, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 400000, "status": "youth", "overall": 61, "potential": 76},
+    {"id": "river-res-gonzalez", "name": "Facundo González", "age": 20, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 500000, "status": "youth", "overall": 63, "potential": 77},
+    {"id": "river-res-espindola", "name": "Santiago Espíndola", "age": 18, "nationality": "Argentina", "positions": ["CM", "AM"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 600000, "status": "youth", "overall": 62, "potential": 79},
+    {"id": "river-res-obregon", "name": "Agustín Obregón", "age": 20, "nationality": "Argentina", "positions": ["LB", "CB"], "preferredFoot": "Left", "clubId": "river-plate", "marketValue": 450000, "status": "youth", "overall": 62, "potential": 75},
+    {"id": "river-res-ruberto", "name": "Agustín Ruberto", "age": 20, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "river-plate", "marketValue": 2500000, "status": "youth", "overall": 68, "potential": 82}
+  ]
+}

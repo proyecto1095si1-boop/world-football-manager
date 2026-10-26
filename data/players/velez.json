@@ -1,0 +1,22 @@
+{
+  "clubId": "velez",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "velez-hoyos", "name": "Tomás Marchiori", "age": 29, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 1500000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "velez-garcia", "name": "Lautaro García", "age": 22, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 800000, "status": "active", "overall": 68, "potential": 76},
+    {"id": "velez-gomez", "name": "Valentin Gómez", "age": 23, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Left", "clubId": "velez", "marketValue": 12000000, "status": "active", "overall": 78, "potential": 85},
+    {"id": "velez-mammana", "name": "Emanuel Mammana", "age": 30, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 2500000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "velez-garcia-r", "name": "Joaquín García", "age": 24, "nationality": "Argentina", "positions": ["RB"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 3000000, "status": "active", "overall": 72, "potential": 76},
+    {"id": "velez-ortega", "name": "Francisco Ortega", "age": 27, "nationality": "Argentina", "positions": ["LB"], "preferredFoot": "Left", "clubId": "velez", "marketValue": 4000000, "status": "active", "overall": 74, "potential": 75},
+    {"id": "velez-bouzat", "name": "Agustín Bouzat", "age": 31, "nationality": "Argentina", "positions": ["CM", "RW"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 2000000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "velez-pizzini", "name": "Francisco Pizzini", "age": 32, "nationality": "Argentina", "positions": ["RW", "LW"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 1800000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "velez-carrizo", "name": "Maher Carrizo", "age": 20, "nationality": "Argentina", "positions": ["AM", "ST"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 10000000, "status": "active", "overall": 74, "potential": 86},
+    {"id": "velez-santos", "name": "Braian Romero", "age": 33, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 1500000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "velez-aquino", "name": "Claudio Aquino", "age": 35, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 800000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "velez-caseres", "name": "Santiago Cáseres", "age": 29, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 2500000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "velez-ortega-j", "name": "José Florentín", "age": 28, "nationality": "Paraguay", "positions": ["CM"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 1800000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "velez-fernandez", "name": "Thiago Fernández", "age": 21, "nationality": "Argentina", "positions": ["AM", "LW"], "preferredFoot": "Right", "clubId": "velez", "marketValue": 4500000, "status": "active", "overall": 71, "potential": 82}
+  ]
+}

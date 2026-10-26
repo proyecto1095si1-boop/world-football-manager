@@ -1,0 +1,21 @@
+{
+  "clubId": "rosario-central",
+  "leagueId": "liga-profesional",
+  "lastUpdated": "2026-10-26",
+  "squadType": "first-team",
+  "players": [
+    {"id": "rc-broun", "name": "Jorge Broun", "age": 40, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 100000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "rc-werner", "name": "Axel Werner", "age": 30, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 800000, "status": "active", "overall": 71, "potential": 71},
+    {"id": "rc-quiroga", "name": "Facundo Quiroga", "age": 28, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 2000000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "rc-komar", "name": "Juan Komar", "age": 30, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 1800000, "status": "active", "overall": 72, "potential": 72},
+    {"id": "rc-dimaria", "name": "Ángel Di María", "age": 38, "nationality": "Argentina", "positions": ["RW", "AM"], "preferredFoot": "Left", "clubId": "rosario-central", "marketValue": 2000000, "status": "active", "overall": 78, "potential": 78},
+    {"id": "rc-malcorra", "name": "Ignacio Malcorra", "age": 37, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Left", "clubId": "rosario-central", "marketValue": 600000, "status": "active", "overall": 74, "potential": 74},
+    {"id": "rc-campaz", "name": "Jaminton Campaz", "age": 26, "nationality": "Colombia", "positions": ["LW", "AM"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 4500000, "status": "active", "overall": 75, "potential": 77},
+    {"id": "rc-lovera", "name": "Maximiliano Lovera", "age": 27, "nationality": "Argentina", "positions": ["AM", "RW"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 2500000, "status": "active", "overall": 72, "potential": 73},
+    {"id": "rc-modica", "name": "Agustín Módica", "age": 23, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 4000000, "status": "active", "overall": 73, "potential": 80},
+    {"id": "rc-copetti", "name": "Enzo Copetti", "age": 30, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 2200000, "status": "active", "overall": 73, "potential": 73},
+    {"id": "rc-ortiz", "name": "Kevin Ortíz", "age": 24, "nationality": "Argentina", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 2800000, "status": "active", "overall": 72, "potential": 76},
+    {"id": "rc-quintana", "name": "Carlos Quintana", "age": 36, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "rosario-central", "marketValue": 300000, "status": "active", "overall": 70, "potential": 70},
+    {"id": "rc-sandez", "name": "Agustín Sández", "age": 25, "nationality": "Argentina", "positions": ["LB"], "preferredFoot": "Left", "clubId": "rosario-central", "marketValue": 2000000, "status": "active", "overall": 71, "potential": 74}
+  ]
+}

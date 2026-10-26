@@ -4,28 +4,303 @@
   "lastUpdated": "2026-10-26",
   "squadType": "first-team",
   "players": [
-    {"id": "boca-montero", "name": "Álvaro Montero", "age": 31, "nationality": "Colombia", "positions": ["GK"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 2500000, "status": "active", "overall": 75, "potential": 75},
-    {"id": "boca-brey", "name": "Leandro Brey", "age": 24, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 1800000, "status": "active", "overall": 72, "potential": 78},
-    {"id": "boca-garcia", "name": "Javier García", "age": 39, "nationality": "Argentina", "positions": ["GK"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 100000, "status": "active", "overall": 68, "potential": 68},
-    {"id": "boca-di-lollo", "name": "Lautaro Di Lollo", "age": 22, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 7500000, "status": "active", "overall": 75, "potential": 83},
-    {"id": "boca-figal", "name": "Nicolás Figal", "age": 32, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 800000, "status": "active", "overall": 74, "potential": 74},
-    {"id": "boca-costa", "name": "Ayrton Costa", "age": 27, "nationality": "Argentina", "positions": ["CB", "LB"], "preferredFoot": "Left", "clubId": "boca-juniors", "marketValue": 5000000, "status": "active", "overall": 75, "potential": 76},
-    {"id": "boca-pellegrino", "name": "Marco Pellegrino", "age": 24, "nationality": "Argentina", "positions": ["CB"], "preferredFoot": "Left", "clubId": "boca-juniors", "marketValue": 3500000, "status": "active", "overall": 73, "potential": 78},
-    {"id": "boca-blanco", "name": "Lautaro Blanco", "age": 27, "nationality": "Argentina", "positions": ["LB"], "preferredFoot": "Left", "clubId": "boca-juniors", "marketValue": 4500000, "status": "active", "overall": 76, "potential": 77},
-    {"id": "boca-lozano", "name": "Leandro Lozano", "age": 27, "nationality": "Uruguay", "positions": ["RB"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 4000000, "status": "active", "overall": 74, "potential": 75},
-    {"id": "boca-gorosito", "name": "Dylan Gorosito", "age": 20, "nationality": "Argentina", "positions": ["RB", "CB"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 800000, "status": "active", "overall": 66, "potential": 78},
-    {"id": "boca-paredes", "name": "Leandro Paredes", "age": 32, "nationality": "Argentina", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 4000000, "status": "active", "overall": 79, "potential": 79},
-    {"id": "boca-ascacibar", "name": "Santiago Ascacíbar", "age": 29, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 5500000, "status": "active", "overall": 77, "potential": 77},
-    {"id": "boca-battaglia", "name": "Rodrigo Battaglia", "age": 35, "nationality": "Argentina", "positions": ["DM", "CM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 600000, "status": "active", "overall": 73, "potential": 73},
-    {"id": "boca-delgado", "name": "Milton Delgado", "age": 21, "nationality": "Argentina", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 3500000, "status": "active", "overall": 71, "potential": 80},
-    {"id": "boca-belmonte", "name": "Tomás Belmonte", "age": 28, "nationality": "Argentina", "positions": ["CM", "DM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 2500000, "status": "active", "overall": 73, "potential": 73},
-    {"id": "boca-velasco", "name": "Alan Velasco", "age": 24, "nationality": "Argentina", "positions": ["LW", "AM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 6000000, "status": "active", "overall": 75, "potential": 80},
-    {"id": "boca-aranda", "name": "Tomás Aranda", "age": 19, "nationality": "Argentina", "positions": ["AM", "CM"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 2000000, "status": "active", "overall": 68, "potential": 82},
-    {"id": "boca-merentiel", "name": "Miguel Merentiel", "age": 30, "nationality": "Uruguay", "positions": ["ST"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 8000000, "status": "active", "overall": 78, "potential": 78},
-    {"id": "boca-flores", "name": "Leonel Flores", "age": 19, "nationality": "Argentina", "positions": ["RW", "ST"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 8500000, "status": "active", "overall": 72, "potential": 85},
-    {"id": "boca-gimenez", "name": "Milton Giménez", "age": 28, "nationality": "Argentina", "positions": ["ST"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 3500000, "status": "active", "overall": 74, "potential": 74},
-    {"id": "boca-villa", "name": "Sebastián Villa", "age": 28, "nationality": "Colombia", "positions": ["LW", "RW"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 3000000, "status": "active", "overall": 74, "potential": 74},
-    {"id": "boca-bareiro", "name": "Adam Bareiro", "age": 28, "nationality": "Paraguay", "positions": ["ST"], "preferredFoot": "Right", "clubId": "boca-juniors", "marketValue": 2800000, "status": "active", "overall": 73, "potential": 73},
-    {"id": "boca-braida", "name": "Malcom Braida", "age": 29, "nationality": "Argentina", "positions": ["LB", "LW"], "preferredFoot": "Left", "clubId": "boca-juniors", "marketValue": 2200000, "status": "active", "overall": 72, "potential": 72}
+    {
+      "id": "boca-montero",
+      "name": "Álvaro Montero",
+      "age": 31,
+      "nationality": "Colombia",
+      "positions": ["GK"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 2500000,
+      "status": "active",
+      "overall": 75,
+      "potential": 75,
+      "attributes": {
+        "handling": 76, "reflexes": 78, "aerialReach": 74, "commandOfArea": 73,
+        "kicking": 68, "oneOnOnes": 75, "rushingOut": 70, "throwing": 72,
+        "pace": 48, "acceleration": 50, "stamina": 62, "strength": 70, "jumping": 76, "agility": 68,
+        "composure": 72, "decisions": 71, "positioning": 74, "determination": 75, "workRate": 65
+      }
+    },
+    {
+      "id": "boca-brey",
+      "name": "Leandro Brey",
+      "age": 24,
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 1800000,
+      "status": "active",
+      "overall": 72,
+      "potential": 78,
+      "attributes": {
+        "handling": 73, "reflexes": 75, "aerialReach": 71, "commandOfArea": 68,
+        "kicking": 65, "oneOnOnes": 72, "rushingOut": 70, "throwing": 69,
+        "pace": 52, "acceleration": 54, "stamina": 60, "strength": 65, "jumping": 72, "agility": 70,
+        "composure": 68, "decisions": 67, "positioning": 70, "determination": 74, "workRate": 62
+      }
+    },
+    {
+      "id": "boca-di-lollo",
+      "name": "Lautaro Di Lollo",
+      "age": 22,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 7500000,
+      "status": "active",
+      "overall": 75,
+      "potential": 83,
+      "attributes": {
+        "finishing": 42, "longShots": 38, "passing": 68, "crossing": 45, "dribbling": 58,
+        "firstTouch": 65, "heading": 78, "tackling": 77, "technique": 64,
+        "composure": 72, "decisions": 73, "vision": 62, "positioning": 76, "workRate": 78,
+        "determination": 82, "offTheBall": 55,
+        "pace": 72, "acceleration": 70, "stamina": 76, "strength": 78, "jumping": 80, "agility": 66
+      }
+    },
+    {
+      "id": "boca-figal",
+      "name": "Nicolás Figal",
+      "age": 32,
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 800000,
+      "status": "active",
+      "overall": 74,
+      "potential": 74,
+      "attributes": {
+        "finishing": 40, "longShots": 35, "passing": 66, "crossing": 42, "dribbling": 55,
+        "firstTouch": 63, "heading": 76, "tackling": 78, "technique": 62,
+        "composure": 74, "decisions": 75, "vision": 60, "positioning": 77, "workRate": 75,
+        "determination": 80, "offTheBall": 52,
+        "pace": 64, "acceleration": 62, "stamina": 72, "strength": 76, "jumping": 77, "agility": 60
+      }
+    },
+    {
+      "id": "boca-blanco",
+      "name": "Lautaro Blanco",
+      "age": 27,
+      "nationality": "Argentina",
+      "positions": ["LB"],
+      "preferredFoot": "Left",
+      "clubId": "boca-juniors",
+      "marketValue": 4500000,
+      "status": "active",
+      "overall": 76,
+      "potential": 77,
+      "attributes": {
+        "finishing": 48, "longShots": 52, "passing": 74, "crossing": 78, "dribbling": 72,
+        "firstTouch": 73, "heading": 62, "tackling": 74, "technique": 72,
+        "composure": 73, "decisions": 74, "vision": 70, "positioning": 72, "workRate": 80,
+        "determination": 78, "offTheBall": 68,
+        "pace": 78, "acceleration": 77, "stamina": 82, "strength": 68, "jumping": 65, "agility": 76
+      }
+    },
+    {
+      "id": "boca-paredes",
+      "name": "Leandro Paredes",
+      "age": 32,
+      "nationality": "Argentina",
+      "positions": ["CM", "DM"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 4000000,
+      "status": "active",
+      "overall": 79,
+      "potential": 79,
+      "attributes": {
+        "finishing": 68, "longShots": 78, "passing": 84, "crossing": 72, "dribbling": 76,
+        "firstTouch": 80, "heading": 64, "tackling": 74, "technique": 82,
+        "composure": 82, "decisions": 81, "vision": 83, "positioning": 78, "workRate": 76,
+        "determination": 80, "offTheBall": 72,
+        "pace": 62, "acceleration": 60, "stamina": 74, "strength": 72, "jumping": 66, "agility": 70
+      }
+    },
+    {
+      "id": "boca-ascacibar",
+      "name": "Santiago Ascacíbar",
+      "age": 29,
+      "nationality": "Argentina",
+      "positions": ["DM", "CM"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 5500000,
+      "status": "active",
+      "overall": 77,
+      "potential": 77,
+      "attributes": {
+        "finishing": 58, "longShots": 62, "passing": 74, "crossing": 55, "dribbling": 68,
+        "firstTouch": 72, "heading": 60, "tackling": 80, "technique": 70,
+        "composure": 74, "decisions": 76, "vision": 70, "positioning": 78, "workRate": 88,
+        "determination": 90, "offTheBall": 65,
+        "pace": 70, "acceleration": 72, "stamina": 86, "strength": 70, "jumping": 64, "agility": 74
+      }
+    },
+    {
+      "id": "boca-merentiel",
+      "name": "Miguel Merentiel",
+      "age": 30,
+      "nationality": "Uruguay",
+      "positions": ["ST"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 8000000,
+      "status": "active",
+      "overall": 78,
+      "potential": 78,
+      "attributes": {
+        "finishing": 82, "longShots": 70, "passing": 68, "crossing": 52, "dribbling": 74,
+        "firstTouch": 76, "heading": 72, "tackling": 38, "technique": 75,
+        "composure": 78, "decisions": 74, "vision": 66, "positioning": 80, "workRate": 78,
+        "determination": 82, "offTheBall": 80,
+        "pace": 76, "acceleration": 75, "stamina": 80, "strength": 74, "jumping": 70, "agility": 73
+      }
+    },
+    {
+      "id": "boca-flores",
+      "name": "Leonel Flores",
+      "age": 19,
+      "nationality": "Argentina",
+      "positions": ["RW", "ST"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 8500000,
+      "status": "active",
+      "overall": 72,
+      "potential": 85,
+      "attributes": {
+        "finishing": 70, "longShots": 65, "passing": 68, "crossing": 66, "dribbling": 76,
+        "firstTouch": 74, "heading": 55, "tackling": 32, "technique": 75,
+        "composure": 68, "decisions": 66, "vision": 67, "positioning": 70, "workRate": 72,
+        "determination": 78, "offTheBall": 73,
+        "pace": 82, "acceleration": 84, "stamina": 70, "strength": 58, "jumping": 55, "agility": 80
+      }
+    },
+    {
+      "id": "boca-velasco",
+      "name": "Alan Velasco",
+      "age": 24,
+      "nationality": "Argentina",
+      "positions": ["LW", "AM"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 6000000,
+      "status": "active",
+      "overall": 75,
+      "potential": 80,
+      "attributes": {
+        "finishing": 72, "longShots": 70, "passing": 74, "crossing": 70, "dribbling": 80,
+        "firstTouch": 78, "heading": 48, "tackling": 35, "technique": 79,
+        "composure": 72, "decisions": 71, "vision": 74, "positioning": 72, "workRate": 70,
+        "determination": 75, "offTheBall": 76,
+        "pace": 80, "acceleration": 82, "stamina": 72, "strength": 55, "jumping": 50, "agility": 84
+      }
+    },
+    {
+      "id": "boca-costa",
+      "name": "Ayrton Costa",
+      "age": 27,
+      "nationality": "Argentina",
+      "positions": ["CB", "LB"],
+      "preferredFoot": "Left",
+      "clubId": "boca-juniors",
+      "marketValue": 5000000,
+      "status": "active",
+      "overall": 75,
+      "potential": 76,
+      "attributes": {
+        "finishing": 40, "longShots": 38, "passing": 70, "crossing": 62, "dribbling": 62,
+        "firstTouch": 66, "heading": 74, "tackling": 76, "technique": 65,
+        "composure": 72, "decisions": 73, "vision": 64, "positioning": 75, "workRate": 77,
+        "determination": 78, "offTheBall": 58,
+        "pace": 74, "acceleration": 72, "stamina": 78, "strength": 75, "jumping": 76, "agility": 68
+      }
+    },
+    {
+      "id": "boca-delgado",
+      "name": "Milton Delgado",
+      "age": 21,
+      "nationality": "Argentina",
+      "positions": ["CM", "DM"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 3500000,
+      "status": "active",
+      "overall": 71,
+      "potential": 80,
+      "attributes": {
+        "finishing": 55, "longShots": 58, "passing": 72, "crossing": 55, "dribbling": 68,
+        "firstTouch": 70, "heading": 58, "tackling": 70, "technique": 69,
+        "composure": 68, "decisions": 70, "vision": 68, "positioning": 70, "workRate": 78,
+        "determination": 80, "offTheBall": 65,
+        "pace": 72, "acceleration": 74, "stamina": 76, "strength": 64, "jumping": 60, "agility": 72
+      }
+    },
+    {
+      "id": "boca-lozano",
+      "name": "Leandro Lozano",
+      "age": 27,
+      "nationality": "Uruguay",
+      "positions": ["RB"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 4000000,
+      "status": "active",
+      "overall": 74,
+      "potential": 75,
+      "attributes": {
+        "finishing": 45, "longShots": 48, "passing": 70, "crossing": 74, "dribbling": 68,
+        "firstTouch": 68, "heading": 60, "tackling": 73, "technique": 67,
+        "composure": 70, "decisions": 71, "vision": 65, "positioning": 72, "workRate": 79,
+        "determination": 76, "offTheBall": 64,
+        "pace": 78, "acceleration": 77, "stamina": 80, "strength": 68, "jumping": 62, "agility": 74
+      }
+    },
+    {
+      "id": "boca-gimenez",
+      "name": "Milton Giménez",
+      "age": 28,
+      "nationality": "Argentina",
+      "positions": ["ST"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 3500000,
+      "status": "active",
+      "overall": 74,
+      "potential": 74,
+      "attributes": {
+        "finishing": 78, "longShots": 65, "passing": 62, "crossing": 45, "dribbling": 68,
+        "firstTouch": 72, "heading": 74, "tackling": 35, "technique": 70,
+        "composure": 74, "decisions": 70, "vision": 60, "positioning": 76, "workRate": 75,
+        "determination": 78, "offTheBall": 75,
+        "pace": 72, "acceleration": 70, "stamina": 76, "strength": 76, "jumping": 74, "agility": 66
+      }
+    },
+    {
+      "id": "boca-villa",
+      "name": "Sebastián Villa",
+      "age": 28,
+      "nationality": "Colombia",
+      "positions": ["LW", "RW"],
+      "preferredFoot": "Right",
+      "clubId": "boca-juniors",
+      "marketValue": 3000000,
+      "status": "active",
+      "overall": 74,
+      "potential": 74,
+      "attributes": {
+        "finishing": 70, "longShots": 68, "passing": 70, "crossing": 72, "dribbling": 78,
+        "firstTouch": 74, "heading": 50, "tackling": 38, "technique": 76,
+        "composure": 70, "decisions": 68, "vision": 70, "positioning": 72, "workRate": 72,
+        "determination": 74, "offTheBall": 74,
+        "pace": 82, "acceleration": 83, "stamina": 74, "strength": 58, "jumping": 52, "agility": 82
+      }
+    }
   ]
 }

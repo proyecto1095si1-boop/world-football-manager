@@ -1,31 +1,23 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Player",
-  "description": "Estructura de un jugador estilo Transfermarkt + atributos de manager",
+  "description": "Jugador completo estilo Football Manager + Transfermarkt",
   "type": "object",
-  "required": ["id", "name", "age", "positions", "clubId", "nationality", "marketValue", "overall", "potential"],
+  "required": ["id", "name", "age", "positions", "clubId", "nationality", "marketValue", "overall", "potential", "attributes"],
   "properties": {
     "id": { "type": "string" },
     "name": { "type": "string" },
-    "age": { "type": "integer", "minimum": 15, "maximum": 45 },
-    "dateOfBirth": { "type": "string", "format": "date" },
+    "age": { "type": "integer" },
     "nationality": { "type": "string" },
-    "positions": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "Posiciones principales (GK, CB, LB, RB, DM, CM, AM, LW, RW, ST, etc.)"
-    },
+    "positions": { "type": "array", "items": { "type": "string" } },
     "preferredFoot": { "type": "string", "enum": ["Left", "Right", "Both"] },
-    "height": { "type": "integer", "description": "Altura en cm" },
+    "height": { "type": "integer" },
     "clubId": { "type": "string" },
     "leagueId": { "type": "string" },
-    "marketValue": { "type": "number", "description": "Valor en euros" },
-    "wage": { "type": "number", "description": "Salario semanal aproximado" },
-    "contractUntil": { "type": "string" },
+    "marketValue": { "type": "number" },
     "status": {
       "type": "string",
-      "enum": ["active", "loan", "loaned_out", "injured", "suspended", "youth"],
-      "default": "active"
+      "enum": ["active", "loan", "loaned_out", "injured", "suspended", "youth"]
     },
     "loanFrom": { "type": ["string", "null"] },
     "loanTo": { "type": ["string", "null"] },
@@ -33,16 +25,39 @@
     "potential": { "type": "integer", "minimum": 1, "maximum": 99 },
     "attributes": {
       "type": "object",
-      "description": "Atributos opcionales más detallados",
+      "description": "Atributos completos",
       "properties": {
-        "pace": { "type": "integer" },
-        "shooting": { "type": "integer" },
-        "passing": { "type": "integer" },
-        "dribbling": { "type": "integer" },
-        "defending": { "type": "integer" },
-        "physical": { "type": "integer" }
+        "finishing": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "longShots": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "passing": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "crossing": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "dribbling": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "firstTouch": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "heading": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "tackling": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "technique": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "composure": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "decisions": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "vision": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "positioning": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "workRate": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "determination": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "offTheBall": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "pace": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "acceleration": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "stamina": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "strength": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "jumping": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "agility": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "handling": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "reflexes": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "aerialReach": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "commandOfArea": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "kicking": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "oneOnOnes": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "rushingOut": { "type": "integer", "minimum": 1, "maximum": 99 },
+        "throwing": { "type": "integer", "minimum": 1, "maximum": 99 }
       }
-    },
-    "notes": { "type": "string" }
+    }
   }
 }
